@@ -24,7 +24,7 @@ export function Navbar() {
   }
 
   return (
-    <div className="relative w-full bg-white">
+    <div className="relative w-full mt-3 mb-3 bg-white">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-2 sm:px-6 lg:px-8">
         <div className="inline-flex items-center space-x-2">
           <span>
@@ -62,7 +62,7 @@ export function Navbar() {
             type="button"
             className="rounded-md bg-black px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-black/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
           >
-            Button text
+            Join Now
           </button>
         </div>
         <div className="lg:hidden">
@@ -120,7 +120,7 @@ export function Navbar() {
                   type="button"
                   className="mt-4 w-full rounded-md bg-black px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-black/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
                 >
-                  Button text
+                  Join Now
                 </button>
               </div>
             </div>
