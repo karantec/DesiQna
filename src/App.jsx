@@ -4,7 +4,6 @@ import { Footer } from './components/footer/Footer';
 import HeroSection from './components/heroSection/HeroSection';
 import Contact from './components/contact/Contact';
 import {BrowserRouter as Router ,Route, Routes } from 'react-router-dom';
-import Feature from './components/Features/Feature';
 import About from './components/about/About';
 const App = () => {
   return (
