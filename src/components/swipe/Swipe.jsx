@@ -1,18 +1,12 @@
-
 import React, { useRef, useState } from 'react';
-// Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
-
-// Import Swiper styles
 import 'swiper/css';
 import 'swiper/css/pagination';
+import './style.css';
 
-import './styles.css';
-
-// import required modules
 import { Pagination } from 'swiper/modules';
 
-function Swipe() {
+function Swipe({component}) {
   return (
     <>
       <Swiper
