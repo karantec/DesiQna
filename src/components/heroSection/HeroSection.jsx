@@ -1,6 +1,6 @@
 import Page from "../Features/page";
 import {data} from "./data/data"
-import Swipe from "../swipe/Swipe";
+import Lower from "../Lower/Page";
 
 function HeroSection() {
   return (
@@ -39,11 +39,9 @@ function HeroSection() {
   
       <Page/>
 
-    
-      <section className="flex flex-col items-center justify-center  h-[20rem]">
-      <Swipe/>
+      <Lower/>
 
-      </section>
+    
 
     </>
   );
