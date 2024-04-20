@@ -2,7 +2,6 @@ import React from "react";
 import Section from "./components/section";
 import Swipe from "../swipe/Swipe";
 import LowerFeature from "./components/LowerFeature";
-import LowerCurriculum from "./components/LowerCurriculum";
 import LowerFooter from "./components/LowerFooter";
 import LowerTestimonial from "./components/LowerTestimonial";
 function Lower() {
@@ -33,9 +32,6 @@ function Lower() {
         <div>
           <div className="mt-5">
             <LowerFeature />
-          </div>
-          <div className="mt-[10rem]">
-            <LowerCurriculum />
           </div>
           <div>
             <LowerTestimonial />
