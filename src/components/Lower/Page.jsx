@@ -9,7 +9,7 @@ function Lower() {
   return (
     <>
       <div className="relative flex flex-col bg-gradient-to-r from-white to-red-500 items-center justify-center overflow-x-hidden">
-        <div className="flex flex-col items-center justify-center flex-wrap bg-slate-100 mt-56 w-[80rem] ">
+        <div className="flex flex-col items-center justify-center flex-wrap bg-slate-400 mt-56 w-[80rem] ">
           <div className=" absolute bg-slate-10 top-[1rem]">
             <Section />
           </div>
