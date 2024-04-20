@@ -16,7 +16,7 @@ import { Pagination, Navigation } from 'swiper/modules';
 function Swipe() {
   return (
     <>
-    <div className='w-[35rem]'>
+    <div className='w-[25rem] lg:w-[35rem]'>
       
       <Swiper
         pagination={{

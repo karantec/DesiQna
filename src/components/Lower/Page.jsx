@@ -12,15 +12,15 @@ function Lower() {
           <div className=" absolute bg-slate-10 top-[1rem]">
             <Section />
           </div>
-          <div className="mt-[26rem] flex flex-col items-center justify-center mb-[10rem]">
+          <div className="mt-[46rem] lg:mt-[26rem] flex flex-col items-center justify-center mb-[10rem]">
             <div>
-              <h1 className="text-4xl text-slate-600 font-bold md:text-center">
+              <h1 className="text-xl lg:text-4xl text-slate-600 font-bold text-center  md:text-center">
                 Only we train for Unseen
               </h1>
-              <p className="text-md ml-2 mb-10 mt-4 md:text-center text-slat-400 text-center px-[10rem]">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga
-                iste explicabo vitae, repudiandae quaerat odio ullam est eius
-                cupiditate autem. Aut enim repellat, doloremque minus recusandae
+              <p className="text-sm  lg:text-md ml-2 mb-10 mt-4 md:text-center text-slat-400 text-center px-[10rem]">
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga <br />
+                iste explicabo vitae, repudiandae quaerat odio ullam est eius <br />
+                cupiditate autem. Aut enim repellat, doloremque minus recusandae <br />
                 mollitia ullam eum porro voluptatum quae.
               </p>
             </div>
