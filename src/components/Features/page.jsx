@@ -10,7 +10,7 @@ function Page() {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center">
+    <div className="flex flex-col items-center justify-center bg-gradient-to-r from-white to-red-500">
       <Feature
         p={selectedUser.p}
         h1={selectedUser.h1}

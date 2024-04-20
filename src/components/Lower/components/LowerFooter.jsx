@@ -2,7 +2,7 @@
 function LowerFooter() {
   return (
     <>
-    <div className='flex flex-col items-center justify-center bg-red-300 p-5 mt-10'>
+    <div className='flex flex-col items-center justify-center bg-red-300 lg:p-5 px-[5rem] py-[2rem] mt-10'>
         <div className='flex flex-col items-center gap-8'>
       <hr/>
         <h1 className='text-4xl font-bold text-center text-white'>Unlock Your Potential with</h1>

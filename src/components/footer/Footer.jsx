@@ -24,7 +24,7 @@ export function Footer() {
           {Array.from({ length: 3 }).map((_, i) => (
             <div key={i} className="mb-8 lg:mb-0">
               <p className="mb-6 text-lg font-semibold text-gray-700">Company</p>
-              <ul className="flex flex-col space-y-4 text-[14px] font-medium text-gray-500">
+              <ul className="flex flex-col space-y-4 text-[14px] font-medium text-gray-500 flex-wrap">
                 <li>About us</li>
                 <li>Company History</li>
                 <li>Our Team</li>
@@ -37,7 +37,7 @@ export function Footer() {
       </div>
       <hr className="my-4" />
       <div className="mx-auto max-w-6xl items-center justify-between px-4 md:flex lg:px-0">
-        <div className="inline-flex items-center">
+        <div className="inline-flex  items-center">
           <svg
             width="40"
             height="46"
@@ -47,7 +47,7 @@ export function Footer() {
           >
             {/* Your SVG path here */}
           </svg>
-          <span className="ml-4 text-lg font-bold">Desiqna</span>
+          <span className="ml-4 text-lg font-bold ">Desiqna</span>
         </div>
         <div className="mt-4 md:mt-0">
           <p className="text-sm font-medium text-gray-500">© 2023 DesiQna. All rights reserved.</p>

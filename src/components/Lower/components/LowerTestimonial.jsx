@@ -57,11 +57,11 @@ function LowerTestimonial() {
   return (
     <>
     <div>
-        <h1 className='text-center text-4xl font-bold mt-10 mb-10'>Hear from Our Learners</h1>
+        <h1 className='text-center text-2xl lg:text-4xl font-bold mt-10 mb-10'>Hear from Our Learners</h1>
     </div>
     <div className='flex flex-col gap-8'>
 
-    <div className='flex flex-col lg:flex-row items-center justify-center gap-4 '>
+    <div className='flex flex-col lg:flex-row items-center justify-center gap-4  px-[6rem] '>
         <TestimonialThree/>
         <TestimonialThree/>
         <TestimonialThree/>
@@ -69,7 +69,7 @@ function LowerTestimonial() {
 
 
     </div>
-    <div className='flex flex-col lg:flex-row items-center justify-center gap-4 '>
+    <div className='flex flex-col lg:flex-row items-center justify-center gap-4 px-[6rem] '>
         <TestimonialThree/>
         <TestimonialThree/>
         <TestimonialThree/>
@@ -78,6 +78,7 @@ function LowerTestimonial() {
 
     </div>
     </div>
+    
     </>
   )
 }

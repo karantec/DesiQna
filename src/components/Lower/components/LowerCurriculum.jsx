@@ -3,7 +3,7 @@ import React from "react";
 function LowerCurriculum() {
   return (
     <>
-      <div className="flex flex-col items-center justify-center">
+      <div className="flex flex-col items-center justify-center flex-wrap px-[4rem]">
         <div>
           <h1 className="text-center font-bold text-4xl text-black">
             Program Curriculum

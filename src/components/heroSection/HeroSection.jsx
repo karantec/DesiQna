@@ -5,8 +5,8 @@ import Lower from "../Lower/Page";
 function HeroSection() {
   return (
     <>
-      <section className="px-4 ml-4">
-        <section className="text-gray-600 body-font">
+      <section className=" ml-4">
+        <section className="text-gray-600 body-font bg-gradient-to-r from-slate-50 to-red-500">
           <div className="container mx-auto px-5 py-24 md:flex md:flex-row md:justify-center">
             <div className="md:w-1/2 lg:pr-24 md:pr-16 mb-16 md:mb-0 text-center md:text-left">
               <span className="text-xl text-red-500 font-bold">{data.span}</span>
