@@ -1,15 +1,14 @@
-import React from 'react'
 
 function LowerFooter() {
   return (
     <>
-    <div className='flex flex-col items-center justify-center bg-slate-100 p-5 mt-10'>
+    <div className='flex flex-col items-center justify-center bg-red-300 p-5 mt-10'>
         <div className='flex flex-col items-center gap-8'>
-
-        <h1 className='text-4xl font-bold text-center'>Unlock Your Potential with</h1><br />
-        <h1 className='text-4xl font-bold text-center'>DesiQNA</h1>
-        <p className='text-center'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis neque magni optio aliquam, ex eum dolorum, consectetur perferendis provident a id iste illo ad distinctio deleniti ipsum unde autem facere harum. Maxime!</p>
-        <button className='bg-black text-white p-3'>Join Now</button>
+      <hr/>
+        <h1 className='text-4xl font-bold text-center text-white'>Unlock Your Potential with</h1>
+        <h1 className='text-4xl font-bold text-center text-white'>DesiQNA</h1>
+        <p className='text-center text-white font-bold'>When you join DesiQNA, you gain access to a wealth of resources and support that are meticulously crafted to align with your career aspirations. Our seasoned industry professionals, with years of experience across various domains, are dedicated to helping you unlock your full potential.!</p>
+        <a href="https://wa.me/918879355057"><button className='bg-black text-white p-3'>Join Now</button></a>
         </div>
     </div>
     </>

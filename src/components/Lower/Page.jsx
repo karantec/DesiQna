@@ -16,8 +16,8 @@ function Lower() {
         </div>
         <div className="mt-[17rem] flex flex-col items-center justify-center mb-[10rem]">
             <div>
-            <h1 className='text-4xl  ml-2 font-bold'>Only we train for Unseen</h1>
-      <p className='text-md ml-2 mb-10 mt-4'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga iste explicabo vitae, repudiandae quaerat odio ullam est eius cupiditate autem. Aut enim repellat, doloremque minus recusandae mollitia ullam eum porro voluptatum quae.</p>
+            <h1 className='text-4xl  font-bold md:text-center'>Only we train for Unseen</h1>
+           <p className='text-md ml-2 mb-10 mt-4 md:text-center'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga iste explicabo vitae, repudiandae quaerat odio ullam est eius cupiditate autem. Aut enim repellat, doloremque minus recusandae mollitia ullam eum porro voluptatum quae.</p>
 
             </div>
             <Swipe/>
