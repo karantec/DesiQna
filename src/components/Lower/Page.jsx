@@ -8,17 +8,17 @@ import LowerTestimonial from "./components/LowerTestimonial";
 function Lower() {
   return (
     <>
-      <div className="relative flex flex-col bg-gradient-to-r from-white to-red-500 items-center justify-center overflow-x-hidden">
-        <div className="flex flex-col items-center justify-center flex-wrap bg-slate-400 mt-56 w-[80rem] ">
+      <div className="relative flex flex-col bg-gradient-to-r from-blue-400 to-red-400 items-center justify-center overflow-x-hidden">
+        <div className="flex flex-col items-center justify-center flex-wrap bg-gradient-to-r from-slate-100 to-gray-300 mt-56 w-[80rem] ">
           <div className=" absolute bg-slate-10 top-[1rem]">
             <Section />
           </div>
-          <div className="mt-[17rem] flex flex-col items-center justify-center mb-[10rem]">
+          <div className="mt-[26rem] flex flex-col items-center justify-center mb-[10rem]">
             <div>
-              <h1 className="text-4xl  font-bold md:text-center">
+              <h1 className="text-4xl text-slate-600 font-bold md:text-center">
                 Only we train for Unseen
               </h1>
-              <p className="text-md ml-2 mb-10 mt-4 md:text-center">
+              <p className="text-md ml-2 mb-10 mt-4 md:text-center text-slat-400 text-center px-[10rem]">
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga
                 iste explicabo vitae, repudiandae quaerat odio ullam est eius
                 cupiditate autem. Aut enim repellat, doloremque minus recusandae

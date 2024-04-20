@@ -2,7 +2,7 @@ import React from "react";
 
 function Section() {
   return (
-    <div className="flex flex-col items-center justify-center">
+    <div className="flex flex-col items-center justify-center ">
       <section className="text-gray-600 body-font bg-white max-w-screen-lg mx-auto px-5 sm:px-10 py-10">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
           <div className="md:max-w-lg md:w-full mx-auto">
