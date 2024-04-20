@@ -10,7 +10,7 @@ function Page() {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center bg-gradient-to-r from-white to-red-500">
+    <div className="flex flex-col items-center justify-center bg-gradient-to-r to-red-50 from-yellow-100  pb-10">
       <Feature
         p={selectedUser.p}
         h1={selectedUser.h1}
@@ -31,7 +31,7 @@ function Page() {
         ))}
       </div>
       <a href="https://docs.google.com/document/d/1bvvpGAFqsa0TpSKprdQH36OlVbLYgBiFrrbqhHU9NPg/edit">
-        <button className="bg-red-500 text-white py-2 px-4 rounded-md font-semibold text-center mt-5">View More</button>
+        <button className="bg-orange-500 text-white py-2 px-4 rounded-md font-semibold text-center mt-5">View More</button>
       </a>
     </div>
   );

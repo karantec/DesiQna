@@ -2,7 +2,7 @@ import { ChevronRight } from 'lucide-react';
 
 export function Footer() {
   return (
-    <footer className="w-full mt-4 bg-white shadow-md">
+    <footer className="w-full  mt-10 bg-white shadow-md">
       <div className="mx-auto max-w-6xl flex flex-col items-center justify-between px-4 md:flex-row">
         <div className="w-full px-4 md:w-1/2 lg:px-0">
           <h1 className="max-w-sm text-3xl font-bold text-center">Subscribe to our Newsletter</h1>

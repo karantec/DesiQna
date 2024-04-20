@@ -3,7 +3,7 @@ import React from 'react'
 function LowerFeature() {
   return (
    <>
-   <div className='mb-10 px-[5rem]'>
+   <div className='mb-10 pt-10 px-[5rem]'>
 
    <h1 className='text-center text-4xl font-bold mb-5 '> Featured Courses</h1>
    <p className='text-center text-sm font-light'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum esse quam in!</p>

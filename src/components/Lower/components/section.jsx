@@ -31,14 +31,14 @@ function Section() {
               </blockquote>
             </p>
             <div className="flex flex-row items-center justify-center gap-10">
-              <button className="mt-3 bg-red-500 rounded-md px-4 py-2 w-full md:w-auto text-white">
+              <button className="mt-3 bg-orange-400 rounded-md px-4 py-2 w-full md:w-auto text-black font-bold">
                 Whatsapp
               </button>
-              <button className="mt-3 bg-red-500 rounded-md px-4 py-2 w-full md:w-auto text-white">
+              <button className="mt-3 bg-orange-400 rounded-md px-4 py-2 w-full md:w-auto text-black font-bold">
                 Youtube
               </button>
 
-              <button className="mt-3 bg-red-500 rounded-md px-4 py-2 w-full md:w-auto text-white">
+              <button className="mt-3 bg-orange-400 rounded-md px-4 py-2 w-full md:w-auto text-black font-bold">
                 Linkedln
               </button>
             </div>
