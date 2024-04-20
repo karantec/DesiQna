@@ -19,7 +19,7 @@ function Page() {
         company={selectedUser.company}
         img={selectedUser.img}
       />
-      <div className='flex items-center gap-5'>
+      <div className='flex items-center gap-5 flex-wrap'>
         {Object.values(data).map((user, index) => (
           <button key={index} onClick={() => handleButtonClick(user)}>
             <img
@@ -30,7 +30,9 @@ function Page() {
           </button>
         ))}
       </div>
-      <a href="https://docs.google.com/document/d/1bvvpGAFqsa0TpSKprdQH36OlVbLYgBiFrrbqhHU9NPg/edit"><button className="bg-red-500 text-white py-2 px-4 rounded-md font-semibold text-center mt-5">View More</button></a>
+      <a href="https://docs.google.com/document/d/1bvvpGAFqsa0TpSKprdQH36OlVbLYgBiFrrbqhHU9NPg/edit">
+        <button className="bg-red-500 text-white py-2 px-4 rounded-md font-semibold text-center mt-5">View More</button>
+      </a>
     </div>
   );
 }
