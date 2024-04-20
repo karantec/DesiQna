@@ -8,9 +8,9 @@ import LowerTestimonial from './components/LowerTestimonial';
 function Lower() {
   return (
     <>
-    <div className='relative flex flex-col items-center justify-center'>
+    <div className='relative flex flex-col  items-center justify-center'>
 
-    <div className='flex flex-col items-center justify-center flex-wrap mt-56    lg:w-[80rem] h-[186rem]'>
+    <div className='flex flex-col items-center justify-center flex-wrap bg-slate-100 mt-56 w-[80rem] h-[186rem]'>
         <div className=' absolute bg-slate-10 top-[4rem]'>
             <Section/>
         </div>
