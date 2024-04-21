@@ -17,11 +17,9 @@ function Lower() {
               <h1 className="text-xl lg:text-4xl text-slate-600 font-bold text-center  md:text-center">
                 Only we train for Unseen
               </h1>
-              <p className="text-sm  lg:text-md ml-2 mb-10 mt-4 md:text-center text-slat-400 text-center px-[10rem]">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga <br />
-                iste explicabo vitae, repudiandae quaerat odio ullam est eius <br />
-                cupiditate autem. Aut enim repellat, doloremque minus recusandae <br />
-                mollitia ullam eum porro voluptatum quae.
+              <p className="text-sm  lg:text-md ml-2 mb-10 mt-4 md:text-center text-slat-400 text-center px-[30rem] lg:px-[12rem]">
+              Our 800 hour DSA course gets updated on monthly basis with more content and training according to the recent trends of DSA <br />
+              problems being asked in company online test + interviews; that’s why it is the best course in the country
               </p>
             </div>
     
@@ -30,10 +28,10 @@ function Lower() {
           </div>
         </div>
         <div>
-          <div className="mt-5">
+          <div className="mt-5 pb-5">
             <LowerFeature />
           </div>
-          <div>
+          <div className="bg-slate-200 pt-2 pb-10 mx-[5rem] mt-3">
             <LowerTestimonial />
           </div>
 
