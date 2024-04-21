@@ -19,7 +19,7 @@ function LowerTestimonial() {
                 <>
                   <div
                     key={index}
-                    className="w-[20rem] h-[13rem] hover:w-[30rem] hover:h-[20rem] border-8 border-solid border-orange-200 "
+                    className="w-[20rem] h-[13rem] hover:w-[30rem] hover:h-[20rem]  "
                   >
                     <img width={1000} height={1000} src={el} alt="" srcset="" />
                   </div>
@@ -35,7 +35,7 @@ function LowerTestimonial() {
                 <>
                   <div
                     key={index}
-                    className="w-[20rem] h-[12.5rem] hover:w-[30rem] hover:h-[20rem] border-8 border-solid border-orange-200"
+                    className="w-[20rem] h-[12.5rem] hover:w-[30rem] hover:h-[20rem]  "
                   >
                     <img width={1000} height={1000} src={el} alt="" srcset="" />
                   </div>
@@ -51,7 +51,7 @@ function LowerTestimonial() {
                 <>
                   <div
                     key={index}
-                    className="w-[20rem] h-[12.5rem] object-fill hover:w-[30rem] hover:h-[20rem] border-8 border-solid border-orange-200"
+                    className="w-[20rem] h-[12.5rem] object-fill hover:w-[30rem] hover:h-[20rem] "
                   >
                     <img width={1000} height={1000} src={el} alt="" srcset="" />
                   </div>
