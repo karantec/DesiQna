@@ -6,7 +6,7 @@ const imageArray2=["/5.png",'/6.png','/11.png','/12.png'];
 function LowerTestimonial() {
   return (
     <>
-    <div  >
+    <div id ="testimonial" >
         <h1 className='text-center text-2xl lg:text-4xl font-bold mt-10 mb-10 font-serif underline'>Hear from Our Student</h1>
     </div>
     <div className='flex flex-col gap-8 flex-wrap lg:flex-nowrap'>

@@ -7,6 +7,7 @@ import About from './components/about/About';
 import Curriculum from './components/Curriculum/Curriculum';
 import Testi from './components/Testimonial/Testi';
 import Achiver from './components/TopAchiver/Achiver';
+import ScrollToTop from './components/ArrowScroll/Arrow';
 
 const App = () => {
 
@@ -24,7 +25,13 @@ const App = () => {
       <Route path="/Testimonial" element={<Testi/>}/>
       <Route path="/Achiver" element={<Achiver/>}/>
     </Routes>
+    
+
     <Footer/>
+    <div className='fixed bottom-0 left-[90%]'>
+
+    <ScrollToTop/>
+    </div>
     </Router>
 
     </>
