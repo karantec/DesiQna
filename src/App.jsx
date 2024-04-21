@@ -5,8 +5,6 @@ import Contact from './components/contact/Contact';
 import {BrowserRouter as Router ,Route, Routes } from 'react-router-dom';
 import About from './components/about/About';
 import Curriculum from './components/Curriculum/Curriculum';
-import Testi from './components/Testimonial/Testi';
-import Achiver from './components/TopAchiver/Achiver';
 import ScrollToTop from './components/ArrowScroll/Arrow';
 
 const App = () => {
@@ -22,8 +20,7 @@ const App = () => {
       <Route path='/contact' element={<Contact/>}/>
       <Route path='/about' element={<About/>}/>
       <Route path="/Curriculum" element={<Curriculum/>}/>
-      <Route path="/Testimonial" element={<Testi/>}/>
-      <Route path="/Achiver" element={<Achiver/>}/>
+      
     </Routes>
     
 
