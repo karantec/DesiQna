@@ -1,7 +1,7 @@
 import React from 'react';
-const imageArray=["/1.png",'/2.png','/3.png','/4.png'];
-const imageArray1=["/7.png",'/8.png','/9.png','/10.png'];
-const imageArray2=["/5.png",'/6.png','/11.png','/12.png'];
+const imageArray=["/1.png",'/2.png','/3.png'];
+const imageArray1=["/7.png",'/8.png','/10.png'];
+const imageArray2=["/5.png",'/4.png','/12.png'];
 
 function LowerTestimonial() {
   return (
@@ -17,8 +17,8 @@ function LowerTestimonial() {
           {imageArray.map((el,index)=>{
             return(
               <>
-              <div key={index} className='w-[15rem] h-[10rem] hover:w-[30rem] hover:h-[20rem] border-8 border-solid border-orange-200 '>
-                <img width={800} height={800} src={el} alt="" srcset="" />
+              <div key={index} className='w-[20rem] h-[13rem] hover:w-[30rem] hover:h-[20rem] border-8 border-solid border-orange-200 '>
+                <img width={1000} height={1000} src={el} alt="" srcset="" />
 
               </div>
               </>
@@ -35,8 +35,8 @@ function LowerTestimonial() {
           {imageArray1.map((el,index)=>{
             return(
               <>
-              <div key={index} className='w-[15rem] h-[10rem] hover:w-[30rem] hover:h-[20rem] border-8 border-solid border-orange-200'>
-                <img width={800} height={800} src={el} alt="" srcset="" />
+              <div key={index} className='w-[20rem] h-[12.5rem] hover:w-[30rem] hover:h-[20rem] border-8 border-solid border-orange-200'>
+                <img width={1000} height={1000} src={el} alt="" srcset="" />
 
               </div>
               </>
@@ -50,12 +50,12 @@ function LowerTestimonial() {
     </div>
     <div className='flex flex-col lg:flex-row items-center justify-center gap-4  px-[6rem] '>
         
-        <div className='flex lg:flex-row flex-col items-center justify-center gap-[7rem] flex-wrap lg:flex-nowrap'>
+        <div className='flex lg:flex-row flex-col items-center justify-center gap-10 flex-wrap lg:flex-nowrap'>
           {imageArray2.map((el,index)=>{
             return(
               <>
-              <div key={index} className='w-[15rem] h-[10rem] object-fill hover:w-[30rem] hover:h-[20rem] border-8 border-solid border-orange-200'>
-                <img width={800} height={800} src={el} alt="" srcset="" />
+              <div key={index} className='w-[20rem] h-[12.5rem] object-fill hover:w-[30rem] hover:h-[20rem] border-8 border-solid border-orange-200'>
+                <img width={1000} height={1000} src={el} alt="" srcset="" />
 
               </div>
               </>
