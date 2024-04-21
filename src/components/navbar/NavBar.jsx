@@ -1,5 +1,6 @@
 import React from 'react'
 import { Menu, X } from 'lucide-react'
+import { Link } from "react-router-dom";
 
 const menuItems = [
   {
@@ -40,12 +41,12 @@ export function Navbar() {
           <ul className="inline-flex space-x-8 font-serif">
             {menuItems.map((item) => (
               <li key={item.name}>
-                <a
-                  href={item.href}
+                <Link
+                  to={item.href}
                   className="text-sm font-semibold hover:text-gray-900"
                 >
                   {item.name}
-                </a>
+                </Link>
               </li>
             ))}
           </ul>
