@@ -13,11 +13,11 @@ const menuItems = [
   },
   {
     name: 'Testimonial',
-    href: '#testimonial',
+    href: '/#testimonial',
   },
   {
     name: 'Top Achievers',
-    href: '#topachiver',
+    href: '/#topachiver',
   },
 ]
 
