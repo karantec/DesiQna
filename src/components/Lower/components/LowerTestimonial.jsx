@@ -13,7 +13,7 @@ function LowerTestimonial() {
 
     <div className='flex flex-col lg:flex-row items-center justify-center gap-4  px-[6rem] '>
        
-        <div className='flex flex-row items-center justify-center gap-10 flex-wrap lg:flex-nowrap'>
+        <div className='flex lg:flex-row flex-col  items-center justify-center gap-10 flex-wrap lg:flex-nowrap'>
           {imageArray.map((el,index)=>{
             return(
               <>
@@ -31,7 +31,7 @@ function LowerTestimonial() {
     </div>
     <div className='flex flex-col lg:flex-row items-center justify-center gap-4 px-[6rem] '>
        
-        <div className='flex flex-row items-center justify-center gap-10 flex-wrap lg:flex-nowrap'>
+        <div className='flex lg:flex-row flex-col items-center justify-center gap-10 flex-wrap lg:flex-nowrap'>
           {imageArray1.map((el,index)=>{
             return(
               <>
@@ -50,11 +50,11 @@ function LowerTestimonial() {
     </div>
     <div className='flex flex-col lg:flex-row items-center justify-center gap-4  px-[6rem] '>
         
-        <div className='flex flex-row items-center justify-center gap-10 flex-wrap lg:flex-nowrap'>
+        <div className='flex lg:flex-row flex-col items-center justify-center gap-[7rem] flex-wrap lg:flex-nowrap'>
           {imageArray2.map((el,index)=>{
             return(
               <>
-              <div key={index} className='w-[15rem] h-[10rem] hover:w-[30rem] hover:h-[20rem] border-8 border-solid border-orange-200'>
+              <div key={index} className='w-[15rem] h-[10rem] object-fill hover:w-[30rem] hover:h-[20rem] border-8 border-solid border-orange-200'>
                 <img width={800} height={800} src={el} alt="" srcset="" />
 
               </div>

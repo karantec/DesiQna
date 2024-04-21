@@ -4,7 +4,7 @@ function LowerFooter() {
     <>
     <div className="flex flex-col items-center justify-center">
 
-    <div className='flex flex-col pb-10 items-center justify-center bg-gray-300 rounded-md mr-[5rem] ml-[5rem] w-[70rem] lg:p-5 px-[5rem] py-[2rem] mt-[10rem]'>
+    <div className='flex flex-col pb-10 items-center justify-center bg-gray-300 rounded-md lg:w-[70rem] w-[30rem]  lg:p-5 px-[5rem] py-[2rem] mt-[10rem]'>
         <div className='flex flex-col items-center gap-8'>
       <hr/>
         <h1 className='text-4xl font-bold text-center text-'>Unlock Your Potential with</h1>
