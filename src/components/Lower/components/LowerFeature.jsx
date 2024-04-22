@@ -1,25 +1,24 @@
-import React from 'react'
 
 function LowerFeature() {
   return (
    <>
    <div className='mb-10 pt-10 px-[5rem] '>
 
-   <h1 className='text-center text-4xl font-bold mb-5 '> Featured Courses</h1>
-   <p className='text-center text-sm font-semibold px-7'> 800 Hr+ OA(hard online test asked by companies for coding/DSA) + DSA for interview + Fullstack development + Backend + Frontend + Mobile Development + Resume + Linkedin Building + Off Campus Referral + Job Support +  </p>
-   <p className='text-center text-sm font-semibold px-7'>Communication Skills + Interview Skills + Rich Mentoring Community + Daily Live Session for 8 month + Recording.</p>
+   <h1 className='text-center text-4xl font-sans font-bold mb-5 '> Featured Courses</h1>
+   <p className='text-center text-sm font-semibold px-7 font-sans'> 800 Hr+ OA(hard online test asked by companies for coding/DSA) + DSA for interview + Fullstack development + Backend + Frontend + Mobile Development + Resume + Linkedin Building + Off Campus Referral + Job Support +  </p>
+   <p className='text-center text-sm font-semibold px-7 font-sans'>Communication Skills + Interview Skills + Rich Mentoring Community + Daily Live Session for 8 month + Recording.</p>
    </div>
    <div className='flex flex-row flex-wrap items-center justify-center gap-[6rem]'>
     <div className='flex flex-col items-center justify-center gap-5'>
-        <button className='bg-slate-50 p-2 border rounded-2xl text-center font-semibold w-[15rem] hover:bg-orange-100'>Job Referral Support</button>
-        <button className='bg-slate-50 p-2 border rounded-2xl text-center w-[15rem] font-semibold hover:bg-orange-100'>Personalized Linkedin + Resume Improvement </button>
-        <button className='bg-slate-50 p-2 border rounded-2xl text-center w-[15rem] font-semibold'>Language of Program : English</button>
-        <button className='bg-slate-50 p-2 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Languages used for DSA Training : C++/Java/Python</button>
-        <button className='bg-slate-50 p-2 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>More than 500 students have cracked 10+LPA offers</button>
+        <button className='bg-gradient-to-r from-slate-100 to-slate-400  shadow-md p-4 border rounded-2xl text-center font-semibold w-[15rem] hover:bg-orange-100'>Job Referral Support</button>
+        <button className='bg-gradient-to-r from-slate-100 to-slate-400 shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold hover:bg-orange-100'>Personalized Linkedin + Resume Improvement </button>
+        <button className='bg-gradient-to-r from-slate-100 to-slate-400  shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold'>Language of Program : English</button>
+        <button className='bg-gradient-to-r from-slate-100 to-slate-400  shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Languages used for DSA Training : C++/Java/Python</button>
+        <button className='bg-gradient-to-r from-slate-100 to-slate-400  shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>More than 500 students have cracked 10+LPA offers</button>
 
 
     </div>
-    <div className='w-[30rem] bg-slate-50 p-[5rem]'>
+    <div className='w-[30rem] bg-gradient-to-r from-slate-400 via-neutral-200 to-slate-400 p-[5rem]'>
         <h1 className='text-center text-3xl font-bold mb-[2rem] '>Duration of Program</h1>
         <p className='text-center font-semibold'>Timings : Monday to Friday [8pm-10pm] [Live DSA Training] 
         </p>
@@ -33,16 +32,16 @@ function LowerFeature() {
         </p>
 
         <p className='text-center font-semibold'>
-        [Full stack Dev Recorded Course.] (200 hours!)
+        [Full stack Dev Recorded Course.] (200 hours!)
         </p>
 
     </div>
     <div className='flex flex-col items-center justify-center gap-5'>
-        <button className='bg-slate-50 p-2 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Sat-Sun :- Live Off Campus Job Hunt Training </button>
-        <button className='bg-slate-50 p-2 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Preparation Course + Mentoring + Training</button>
-        <button className='bg-slate-50 p-2 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Looking for a job in the IT field(wants to switch from Non IT to IT).</button>
-        <button className='bg-slate-50 p-2 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Lowest cost in the whole country despite 500 10+LPA selections </button>
-        <button className='bg-slate-50 p-2 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>In development the dev mentor(SDE @ Goldman Sachs.)</button>
+        <button className='bg-gradient-to-r from-slate-100 to-slate-400 shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Sat-Sun :- Live Off Campus Job Hunt Training </button>
+        <button className='bg-gradient-to-r from-slate-100 to-slate-400  shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Preparation Course + Mentoring + Training</button>
+        <button className='bg-gradient-to-r from-slate-100 to-slate-400  shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Looking for a job in the IT field(wants to switch from Non IT to IT).</button>
+        <button className='bg-gradient-to-r from-slate-100 to-slate-400  shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Lowest cost in the whole country despite 500 10+LPA selections </button>
+        <button className='bg-gradient-to-r from-slate-100 to-slate-400 shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>In development the dev mentor(SDE @ Goldman Sachs.)</button>
 
 
     </div>

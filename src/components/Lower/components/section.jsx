@@ -1,32 +1,31 @@
-import React from "react";
 
 function Section() {
   return (
-    <div className="flex flex-col items-center justify-center ">
-      <section className="text-gray-600 body-font bg-white max-w-screen-lg mx-auto px-5 sm:px-10 py-10">
+    <div className="flex mt-15 flex-col items-center justify-center ">
+      <section className="text-gray-600 body-font bg-gradient-to-r from-slate-400 to-slate-600 max-w-screen-lg mx-auto px-5 sm:px-10 py-10 shadow-[4px_4px_4px_0px_#a0aec0]">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
-          <div className="md:max-w-lg md:w-full mx-auto">
+          <div className="md:max-w-lg md:w-full mx-auto ">
             <img
-              className="object-cover object-center rounded"
+              className="object-cover object-center rounded-lg shadow-[4px_4px_4px_0px_#a0aec0] "
               alt="hero"
               src="mentor.jpg"
             />
           </div>
           <div className="flex flex-col items-center md:items-start">
-            <h5 className="text-gray-700 text-center md:text-left"></h5>
-            <h1 className="title-font text-4xl mb-4 mt-3 font-bold uppercase text-gray-900 text-center md:text-left">
+            <h5 className="text-white text-center md:text-left"></h5>
+            <h1 className="font-sans text-4xl mb-4 mt-3 font-bold uppercase text-white text-center md:text-left">
               Karan Kumar
             </h1>
-            <p className="text-center md:text-left text-black font-semibold">
+            <p className="text-center md:text-left font-sans text-gray-800 font-semibold">
               Founder , DesiQNA <br />
-              SDE @AMAZON
+             <span className="text-gray-100"> SDE @AMAZON</span>
             </p>
             <p className="mt-8 mb-8">
-              <blockquote className="text-black font-semibold ">
-                International Rank 368 in Google KickStart Coding Competition <br />
+              <blockquote className="text-gray-300 font-bold ">
+                International Rank 368 in Google KickStart Coding Competition 
                 All India Rank 12 Google CodeJam 2021 <br />
                  All India Rank 15/200000 in Hackerearth <br />
-                World Rank 178 and All India Rank 26 in LeetCode Contest Top 1% on LeetCode <br /> From tier-4 college  knows the struggle.
+                World Rank 178 and All India Rank 26 in LeetCode Contest Top 1% on LeetCode  From tier-4 college  knows the struggle.
               </blockquote>
             </p>
             <div className="flex flex-row items-center justify-center gap-7">

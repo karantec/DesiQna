@@ -1,13 +1,13 @@
 import React from "react";
 const imageArray = ["/1.png", "/2.png", "/3.png"];
 const imageArray1 = ["/7.png", "/8.png", "/10.png"];
-const imageArray2 = ["/5.png", "/4.png", "/12.png"];
+
 
 function LowerTestimonial() {
   return (
     <>
       <div id="testimonial">
-        <h1 className="text-center text-2xl lg:text-4xl font-bold mt-10 mb-10 font-serif underline">
+        <h1 className="text-center text-2xl lg:text-4xl font-bold mt-10 mb-10 font-sans">
           Hear from Our Student
         </h1>
       </div>
@@ -45,20 +45,7 @@ function LowerTestimonial() {
           </div>
         </div>
         <div className="flex flex-col lg:flex-row items-center justify-center gap-4  px-[6rem] ">
-          <div className="flex lg:flex-row flex-col items-center justify-center gap-10 flex-wrap lg:flex-nowrap">
-            {imageArray2.map((el, index) => {
-              return (
-                <>
-                  <div
-                    key={index}
-                    className="w-[20rem] h-[12.5rem] object-fill hover:w-[30rem] hover:h-[20rem] "
-                  >
-                    <img width={1000} height={1000} src={el} alt="" srcset="" />
-                  </div>
-                </>
-              );
-            })}
-          </div>
+          
         </div>
 
         <div className="flex flex-col items-center justify-center mt-[10rem]">

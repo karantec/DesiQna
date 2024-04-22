@@ -17,7 +17,7 @@ function Lower() {
               <h1 className="text-xl lg:text-4xl text-slate-600 font-bold text-center  md:text-center">
                 Only we train for Unseen
               </h1>
-              <p className="text-sm  lg:text-md ml-2 mb-10 mt-4 md:text-center text-slat-400 text-center px-[30rem] lg:px-[12rem]">
+              <p className="text-1xl lg:text-1xl ml-2 mb-10 mt-4 md:text-center text-slat-400 text-center px-[30rem] lg:px-[12rem]">
               Our 800 hour DSA course gets updated on monthly basis with more content and training according to the recent trends of DSA <br />
               problems being asked in company online test + interviews; that’s why it is the best course in the country
               </p>
