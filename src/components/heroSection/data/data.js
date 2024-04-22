@@ -8,5 +8,5 @@ export const data ={
     soft sklls, our featured programs provide the knowledge and expertise you
     need to thrive in today's competitive job market.`,
     button:'Explore',
-    img:'section2.png'
+    img:'section2.jpg'
 }
