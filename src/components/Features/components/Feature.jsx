@@ -1,11 +1,13 @@
-function Feature({ p, h1, company, details, student, img }) {
+import 'animate.css';
+
+function Feature({ p, h1, company, details, student, img,animation }) {
   return (
     <>
       <section className="mx-auto mb-2 max-w-screen-lg px-5 py-10 md:py-24">
         <section className="text-gray-600 body-font">
           <h1 className="text-center font-bold text-gray-700 font-sans text-4xl mb-8 uppercase">Our Top Performing Student</h1>
-          <div className="flex flex-col md:flex-row items-center justify-center gap-[7rem] ">
-            <div className="md:w-1/2 flex flex-col items-center md:items-start text-center">
+          <div className={`flex flex-col md:flex-row items-center justify-center gap-[7rem] border-2 border-gray-300 rounded-lg shadow-md  p-6 ${animation}`}>
+            <div className="md:w-1/2 flex flex-col items-center md:items-start text-center ">
               <span className="text-3xl text-black-600 font-bold mb-4">
                 {p}
               </span>

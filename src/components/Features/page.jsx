@@ -5,6 +5,7 @@ import Feature from './components/Feature';
 function Page() {
   const [selectedUser, setSelectedUser] = useState(data.user1);
   const [activeIndex, setActiveIndex] = useState(null);
+  const [animate,setAnimate] = useState(null)
 
   const handleImageHover = (index) => {
     setActiveIndex(index);
@@ -14,6 +15,9 @@ function Page() {
     setSelectedUser(userData);
     setActiveIndex(index);
   };
+  const handlerAnimate = ()=>{
+    setAnimate(`animate__animated animate__slideInRight`)
+  }
 
   return (
     <div id="topachiver" className="flex flex-col items-center justify-center bg-gradient-to-r to-red-50 from-yellow-100 pb-10">
@@ -24,6 +28,7 @@ function Page() {
         student={selectedUser.student}
         company={selectedUser.company}
         img={selectedUser.img}
+        animation={animate}
       />
       <div className='flex items-center mb-3 gap-5 justify-center flex-wrap'>
         {Object.values(data).map((user, index) => (
@@ -31,6 +36,7 @@ function Page() {
             onMouseEnter={() => handleImageHover(index)}
             onMouseLeave={() => handleImageHover(null)}>
             <img
+            onClick={handlerAnimate}
               className={`relative z-10 inline-block h-10 w-10 rounded-full ring-2 ring-white hover:border-4 
               active:border-orange-500 transition-all duration-500 ${
                 activeIndex === index ? 'border-orange-500 shadow-lg' : ''

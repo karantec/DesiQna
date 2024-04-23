@@ -4,6 +4,7 @@ import Swipe from "../swipe/Swipe";
 import LowerFeature from "./components/LowerFeature";
 import LowerFooter from "./components/LowerFooter";
 import LowerTestimonial from "./components/LowerTestimonial";
+import VideoGallery from "../VideoGallery/VideoGallery";
 function Lower() {
   return (
     <>
@@ -26,6 +27,10 @@ function Lower() {
             </div>
             <Swipe />
           </div>
+          <div>
+            <VideoGallery/>
+
+          </div>
         </div>
         <div>
         
@@ -37,7 +42,7 @@ function Lower() {
           </div>
 
           <div>
-            <LowerFooter />
+            {/* <LowerFooter /> */}
           </div>
         </div>
       </div>
