@@ -10,9 +10,9 @@ function HeroSection() {
           <div className="container mx-auto px-5 py-24 md:flex md:flex-row md:justify-center">
             <div className="md:w-1/2 lg:pr-24 md:pr-16 mb-16 md:mb-0 text-center md:text-left">
               <span className="text-xl text-black font-sans font-bold">{data.span}</span>
-              <h1 className="font-sans leading-snug text-5xl mb-4 font-extrabold text-gray-900">
+              <h1 className="font-sans leading-snug text-4xl mb-4 font-extrabold text-gray-900">
                 {data.h1}
-                <br className="font-sans hidden lg:inline-block" />
+                <br className="font-sans text-3xl  bg-red-500 hidden lg:inline-block" />
                 {data.subh1}
                 <br className="hidden font-sans lg:inline-block text-gray-800" />
                 {data.subh2}
