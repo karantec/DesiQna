@@ -4,9 +4,9 @@ function LowerFeature() {
    <>
    <div className='mb-10 pt-10 px-[5rem] '>
 
-   <h1 className='text-center text-4xl font-sans font-bold mb-5 '> Amazing Features of our Course.</h1>
-   <p className='text-center text-sm font-semibold px-7 font-sans'> 800 hour - OA(hard online test asked by companies for coding/DSA) + DSA for interview + Full-stack development (Backend + Frontend )+ Mobile Development + Resume + Linkedin Building + Off Campus Job Referral Support + Offcampus Job Search Training + Communication Skills + Interview Skills + Rich Mentoring Community + Daily Live Session for 8 month + Recording available for each live session.  </p>
-   <p className='text-center text-sm font-semibold px-7 font-sans'>Communication Skills + Interview Skills + Rich Mentoring Community + Daily Live Session for 8 month + Recording.</p>
+   <h1 className='text-center text-3xl font-sans font-bold mb-5 '> Amazing Features <br/> of our Course.</h1>
+   <p className='text-center text-sm font-semibold ml-10 pl-8 font-sans  mr-14'> 800 hour - OA(hard online test asked by companies for coding/DSA) + DSA for interview + Full-stack development (Backend + Frontend )+ Mobile Development + Resume + Linkedin Building + Off Campus Job Referral Support + Offcampus Job Search Training + Communication Skills + Interview Skills + Rich Mentoring Community + Daily Live Session for 8 month + Recording available for each live session.  </p>
+
    </div>
    <div className='flex flex-row flex-wrap items-center justify-center gap-[6rem]'>
     <div className='flex flex-col items-center justify-center gap-5'>

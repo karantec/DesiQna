@@ -10,13 +10,13 @@ function Lower() {
     <>
       <div className="relative flex flex-col bg-gradient-to-r to-red-50 from-yellow-100  items-center justify-center overflow-x-hidden pb-10">
         <div className="flex flex-col items-center justify-center flex-wrap bg-gradient-to-r from-slate-100 to-gray-300 mt-56 w-[80rem] ">
-          <div className=" absolute bg-slate-10 top-[1rem]">
+          <div className=" absolute bg-slate-10 top-[3rem]">
             <Section />
           </div>
-          <div className="mt-[46rem] lg:mt-[26rem] flex flex-col items-center justify-center mb-[10rem]">
+          <div className="mt-[60rem]  lg:mt-[26rem] flex flex-col items-center justify-center mb-[10rem]">
             <div>
-              <h1 className="text-xl lg:text-4xl text-slate-500 font-bold text-center  md:text-center">
-               Why Join Our Personalized 1-1 <span className="text-black">Mentoring Program ?</span>
+              <h1 className="text-lg lg:text-4xl text-slate-500 font-bold text-center  md:text-center">
+               Why Join Our Personalized 1-1<br/> <span className="text-black">Mentoring Program ?</span>
               </h1>
               <p className="text-2xl  lg:text-2xl ml-2 mb-10 mt-6 md:text-center text-slat-400 text-center px-[30rem] lg:px-[12rem]">
               Only We Train For Unseen <span className="text-red-500 font-bold"> Hard Online Test+ Interview  DSA</span> Problem of Top Tech Companies in India.

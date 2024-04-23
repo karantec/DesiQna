@@ -15,13 +15,12 @@ function HeroSection() {
                 <span className="mt-6 text-red-900">{data.h2}</span>
                 <p className="font-sans text-3xl  bg-red-500 hidden lg:inline-block" />
                 {data.subh1}
-                <br className="hidden font-sans lg:inline-block text-gray-800" />
-                {data.subh2}
+                {" "}{data.subh2}
               </h1>
               <ol>
-                <li className="mb-4 leading-normal text-xl text-gray-900 font-sans">{data.ul1}</li>
-                <li className="mb-4 leading-normal  text-xl  text-gray-900 font-sans">{data.ul2}</li>
-                <li className="mb-6 leading-normal  text-xl text-gray-900 font-sans">{data.ul3}</li>
+                <li className="mb-4 md:items-start leading-normal text-xl text-gray-900 font-sans">{data.ul1}</li>
+                <li className="mb-4  md:items-start leading-normal  text-xl  text-gray-900 font-sans">{data.ul2}</li>
+                <li className="mb-6  md:items-start  leading-normal  text-xl text-gray-900 font-sans">{data.ul3}</li>
               </ol>
              
              

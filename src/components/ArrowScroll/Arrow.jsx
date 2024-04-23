@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { FaArrowCircleUp } from "react-icons/fa";
+import { FaArrowCircleUp, FaLongArrowAltUp } from "react-icons/fa";
 
 export default function ScrollToTop() {
   const [isVisible, setIsVisible] = useState(false);
@@ -33,7 +33,7 @@ export default function ScrollToTop() {
     <div className="scroll-to-top">
       {isVisible && (
         <div onClick={scrollToTop}>
-          <h3 className="text-5xl  bg-black rounded-md text-white"><FaArrowCircleUp /></h3>
+          <h3 className="text-3xl w-10 text-center  bg-yellow-600 rounded-md text-white"><FaLongArrowAltUp /></h3>
         </div>
       )}
     </div>

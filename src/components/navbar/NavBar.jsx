@@ -29,7 +29,19 @@ export function Navbar() {
   }
 
   return (
-    <div className="relative w-full mt-4 mb-4 pt bg-gray-100 shadow-lg">
+    <>
+   <div className="relative flex flex-row justify-center space-x-3 w-full bg-slate-500">
+  <h1 className="text-center text-white  py-4 h-18">
+    Each day a student Cracks 10+LPA  SDE offer in our program
+  </h1>
+  {"   " }
+  <Link to= "https://wa.me/918879355057"><button className='text-white mt-4 mb-4 font-sans font-bold uppercase rounded-lg bg-red-500 px-4 py-1'>
+    Visit now
+  </button></Link>
+</div>
+
+    <div className="relative w-full mt-4  pt bg-gray-100 shadow-lg">
+    
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-2 sm:px-6 lg:px-8 text-black font-roboto">
         <div className="inline-flex items-center space-x-2">
           <span>
@@ -52,12 +64,7 @@ export function Navbar() {
           </ul>
         </div>
         <div className="hidden lg:block">
-          <button
-            type="button"
-            className="rounded-md border border-red-500 bg-orange-500  px-3 py-2 text-sm font-semibold text-white shadow-sm"
-          >
-            Join Now
-          </button>
+        
         </div>
         <div className="lg:hidden">
           <Menu onClick={toggleMenu} className="h-6 w-6 cursor-pointer" />
@@ -96,17 +103,13 @@ export function Navbar() {
                     ))}
                   </nav>
                 </div>
-                <Link to ="https://wa.me/918879355057"><button
-                  type="button"
-                  className="mt-4  p-2 w-full rounded-md bg-orange-500 text-white "
-                >
-                  Join Now
-                </button></Link>
+               
               </div>
             </div>
           </div>
         )}
       </div>
     </div>
+    </>
   )
 }

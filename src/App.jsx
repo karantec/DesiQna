@@ -27,7 +27,7 @@ const App = () => {
     <Footer/>
     <div className='fixed bottom-0 left-[90%]'>
 
-    <ScrollToTop/>
+    {/* <ScrollToTop/> */}
     </div>
     </Router>
 

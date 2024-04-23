@@ -25,11 +25,11 @@ export function Footer() {
             <div key={i} className="mb-8 lg:mb-0">
               <p className="mb-6 text-lg font-semibold text-gray-700">Company</p>
               <ul className="flex flex-col space-y-4 text-[14px] font-medium text-gray-500 flex-wrap">
-                <li>About us</li>
-                <li>Company History</li>
-                <li>Our Team</li>
+                <li>Home</li>
+                <li>About</li>
+                <li>Contact</li>
                 <li>Our Vision</li>
-                <li>Press Release</li>
+                
               </ul>
             </div>
           ))}

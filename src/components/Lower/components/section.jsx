@@ -35,7 +35,7 @@ function Section() {
               </ol>
                 
             </p>
-            <div className="flex flex-row items-center justify-center gap-7">
+            <div className="flex flex-row items-center justify-center gap-4 ">
               <button className="mt-3 flex flex-row  items-center justify-center gap-4  rounded-md px-4 py-2 w-full md:w-auto text-black font-bold">
                 <span>
                   <a href="https://wa.me/918879355057">
