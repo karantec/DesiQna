@@ -54,7 +54,7 @@ export function Navbar() {
         <div className="hidden lg:block">
           <button
             type="button"
-            className="rounded-md border border-red-500  px-3 py-2 text-sm font-semibold text-black shadow-sm hover:bg-green-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
+            className="rounded-md border border-red-500 bg-orange-500  px-3 py-2 text-sm font-semibold text-white shadow-sm"
           >
             Join Now
           </button>
@@ -96,12 +96,12 @@ export function Navbar() {
                     ))}
                   </nav>
                 </div>
-                <button
+                <Link to ="https://wa.me/918879355057"><button
                   type="button"
-                  className="mt-4 w-full rounded-md  border border-red-500 px-3 py-2 text-sm font-semibold text-black shadow-sm  focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
+                  className="mt-4  p-2 w-full rounded-md bg-orange-500 text-white "
                 >
                   Join Now
-                </button>
+                </button></Link>
               </div>
             </div>
           </div>

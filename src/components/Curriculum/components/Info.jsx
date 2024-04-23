@@ -72,6 +72,7 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4 }) {
                 />
               </div>
             </div>
+            
           </div>
         </div>
       </div>

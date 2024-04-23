@@ -1,9 +1,6 @@
 export const data={
     user1:{
-        h1:"Vinita cracks off campus SDE offer from Microsoft after 5 months of FAANG level OA + Interview Training",
-        details:` It was a very hard journey for her she was trying since months to get off-campus placements but was not getting through; after 8 months she finally got successful after all the rejections and success is so big that its Microsoft offer.
-        Today's post is very special because its about my DSA + OA Training + Personalized Mentoring batch student Vinita Katlamudi
-        Yes you heard it right she has cracked off-campus SDE Fulltime Offer from Microsoft.`,
+        h1:"Vinita cracks off campus 50LPA SDE offer from Microsoft after 8 months of FAANG level OA + Interview Training",
         student:"Vinita Katlamudi ",
         company:"Microsoft",
         img:'vinita.jpg'
