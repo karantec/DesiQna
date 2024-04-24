@@ -1,6 +1,7 @@
 export const data={
     user1:{
         id: 1,
+        p:"Tier-3 College to 40+ LPA",
         h1:"Pranav cracks off campus SDE offer from Linkedin SDE Intern + PPO (40 LPA CTC) after 8 months of FAANG level OA + Interview Training",
         student:"Pranav Kulkarni",
         company:"Linkedin",
@@ -9,6 +10,7 @@ export const data={
     },
     user2:{
         id: 2,
+        p:"Tier-3 College 30 LPA Off Campus SDE Offer",
         h1:"Student who was a DSA beginner and was working in service based company cracks 30 LPA Off Campus SDE Offer from Flipkart  ",
         student:"Akhil Sharma",
         company:"Flipkart",
@@ -17,6 +19,7 @@ export const data={
     },
     user3:{
         id: 3,
+        p:"Tier-3 College to 18+ LPA",
         h1:" Student  cracked 18 lpa SDE Offer Off-campus from product based company Experian ",
         student:"Sandeep Nuka.",
         company:"Experian'",
@@ -25,6 +28,7 @@ export const data={
     },
     user4:{
         id: 4,
+        p:"Tier-3 College to MicroSoft",
         h1:" Student cracks Microsoft Off Campus offer  after 8 month FAANG level OA + Interview + CP training",
         company:"Microsoft",
         student:"Sejal Aggarwal.",
@@ -33,6 +37,7 @@ export const data={
     },
     user5:{
         id: 5,
+        p:"Tier-3 College to 28 LPA SDE Offer OFF Campus",
         h1:" Student fully beginner at DSA; cracks ZScaler 28 LPA Offer after 5 month FAANG level DSA + OA + Mock Interview Training + 800 hour course! ",
         student:"Anurag Tiwar",
         company:"Zscaler",
@@ -40,6 +45,7 @@ export const data={
     },
     user6:{
         id: 6,
+        p:"Tier-3 College to SDE Offer OFFCampus ClearTrip",
         h1:" Cracks Flipkart Group(ClearTrip) SDE Offer Off Campus   after training with us for 8 months! ",
         student:"Hemendra Mehta.",
         company:"  ClearTrip",
@@ -48,6 +54,7 @@ export const data={
    
     user8:{
         id: 7,
+        p:"Tier-3 College to World Rank-50",
         h1:" Student gets World Rank 50/25000 in LeetCode DSA Contest",
         student:"Vinit Tekwani ",
         company:" Hexaview Technologies",
@@ -55,6 +62,7 @@ export const data={
     },
     user9:{
         id: 8,
+        p:"Tier-3 College to ff campus SDE offer at Societe Generale",
         h1:"Student with 2023 year of graduation cracks off campus SDE offer at Societe Generale; Top PBC despite having a gap of 5+ months. ",
         student:"Abhishek Mishra",
         company:"Societe Generale",
@@ -63,13 +71,15 @@ export const data={
     },
     user10:{
         id: 9,
-        h1:"Student who got laid off cracks SDE-2 offer from Ford after 6 months training. ",
+        p:"Tier-3 College to  off Campus cracks SDE-2 offer at Ford Motor Company",
+        h1:"Student who got laid off Campus cracks SDE-2 offer from Ford after 6 months training. ",
         student:"Surya",
         company:"Ford Motor Company",
         img:'https://media.licdn.com/dms/image/D5603AQEo4KYq1yCG7g/profile-displayphoto-shrink_400_400/0/1706681234827?e=1718841600&v=beta&t=jzMi7n0QnOr5LXSHkcvMlBAZbiiv-0KRlYYBgURuCx0',
     },
     user11:{
         id: 10,
+        p:"Tier-3 College to 10LPA SDE offer offcampus  from Zoho",
         h1:"Student with 0 college placements cracks 10LPA SDE offer offcampus  from Zoho . ",
         student:"Arunraj Vadivel",
         company:"Zoho Corporation",
@@ -80,6 +90,7 @@ export const data={
    
     user12:{
         id: 11,
+        p:"Tier-3 College to OFF Campus SDE Offer ",
         h1:"Student cracks Goldman Sachs OFF Campus SDE Offer  after daily live training of 8 months. ",
         student:"Prakriti Chatterjee",
         company:"Goldman Sachs",
@@ -89,6 +100,7 @@ export const data={
    
     user13:{
         id: 12,
+        p:"Tier-3 College to crack 31 LPA SDE Offer from Swiggy",
         h1:"Students from tier-3 colleges; crack 31 LPA SDE Offer from Swiggy by training super hard for DSA(OA + Interview) + LLD + HLD! ",
         student:"Sarthak Rohtagi",
         company:"Swiggy",

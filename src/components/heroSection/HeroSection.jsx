@@ -21,6 +21,7 @@ function HeroSection() {
                 <li className="mb-4 md:items-start leading-normal text-xl text-gray-900 font-sans">{data.ul1}</li>
                 <li className="mb-4  md:items-start leading-normal  text-xl  text-gray-900 font-sans">{data.ul2}</li>
                 <li className="mb-6  md:items-start  leading-normal  text-xl text-gray-900 font-sans">{data.ul3}</li>
+                <li className="mb-6  md:items-start  leading-normal  text-xl text-gray-900 font-sans">{data.ul4}</li>
               </ol>
              
              
