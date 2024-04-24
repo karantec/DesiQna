@@ -2,34 +2,34 @@ import React, { useState } from 'react';
 import { data } from "./data/data";
 import Feature from './components/Feature';
 import "./Page.css"
+import "animate.css"
+
 function Page() {
   const [selectedUser, setSelectedUser] = useState(data.user1);
   const [activeIndex, setActiveIndex] = useState(null);
+  const [animate, setAnimate] = useState(null);
 
   const handleImageClick = (userData, index) => {
     setSelectedUser(userData);
     setActiveIndex(index);
-
-    // Blur all images except the clicked one
-    document.querySelectorAll('.image-button').forEach((button, idx) => {
-      if (idx !== index) {
-        button.classList.add('blur');
-      } else {
-        button.classList.remove('blur');
-      }
-    });
+    setAnimate('animate__animated animate__slideInRight'); 
+    setTimeout(() => {
+      setAnimate(null); 
+    }, 1000); 
   };
 
   return (
     <div id="topachiver" className="flex flex-col items-center justify-center bg-gradient-to-r to-red-50 from-yellow-100 pb-10">
-      <Feature
-        p={selectedUser.p}
-        h1={selectedUser.h1}
-        details={selectedUser.details}
-        student={selectedUser.student}
-        company={selectedUser.company}
-        img={selectedUser.img}
-      />
+      <div className={`${animate}`}>
+        <Feature
+          p={selectedUser.p}
+          h1={selectedUser.h1}
+          details={selectedUser.details}
+          student={selectedUser.student}
+          company={selectedUser.company}
+          img={selectedUser.img}
+        />
+      </div>
       <div className='flex items-center mb-3 gap-5 justify-center flex-wrap'>
         {Object.values(data).map((user, index) => (
           <button key={index} onClick={() => handleImageClick(user, index)} className="image-button">
