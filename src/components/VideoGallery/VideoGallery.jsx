@@ -1,4 +1,3 @@
-import React from "react";
 
 function VideoGallery() {
   const videos = [
@@ -13,11 +12,11 @@ function VideoGallery() {
   return (
     <div className="flex flex-col items-center justify-center pb-10">
       <h1 className="text-3xl sm:text-1xl md:text-5xl lg:text-5xl text-center font-bold font-sans py-7">
-  You can see our<br/> <span className="text-red-600">Mentor</span> how he teaches
+  Take A Glimpse of Our  <br/>class Taught by<br/> <span className="text-red-600"> Kumar K Sir </span> 
 </h1>
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 p-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-8 p-4">
         {videos.map((videoUrl, index) => (
-          <div key={index} className="aspect-w-16 aspect-h-9">
+          <div key={index} className="aspect-w-16 aspect-h-9 items-center">
             <iframe
               className="w-full h-full"
               src={videoUrl}

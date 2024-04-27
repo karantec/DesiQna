@@ -31,16 +31,17 @@ export function Navbar() {
   return (
     <>
    <div className="relative flex flex-row justify-center space-x-3 w-full bg-slate-500">
-  <h1 className="text-center text-white  py-4 h-18">
+  <h1 className="text-center text-white  py-2 h-15">
     Each day a student Cracks 10+LPA  SDE offer in our program
   </h1>
   {"   " }
-  <Link to= "https://wa.me/918879355057"><button className='text-white mt-4 mb-4 font-sans font-bold uppercase rounded-lg bg-red-500 px-4 py-1'>
-    Visit now
+  <Link to= "https://wa.me/918879355057">
+  <button className='mt-2 mb-2  font-sans lg:text-1xl  font-bold uppercase rounded-lg sm:text-base py-1 px-1  sm:mr-3 bg-red-500 text-white  items-center '>
+    Enroll Now
   </button></Link>
 </div>
 
-    <div className="relative w-full mt-4  pt bg-gray-100 shadow-lg">
+    <div className="relative w-full    bg-gray-100 shadow-lg">
     
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-2 sm:px-6 lg:px-8 text-black font-roboto">
         <div className="inline-flex items-center space-x-2">

@@ -2,10 +2,10 @@
 function LowerFeature() {
   return (
    <>
-   <div className='mb-10 pt-10 px-[5rem] '>
+   <div className='mb-10   flex flex-col items-center pt-10 px-[5rem] '>
 
-   <h1 className='text-center text-3xl font-sans font-bold mb-5 '> Amazing Features <br/> of our Course.</h1>
-   <p className='text-center text-sm font-semibold ml-10 pl-8 font-sans  mr-14'> 800 hour - OA(hard online test asked by companies for coding/DSA) + DSA for interview + Full-stack development (Backend + Frontend )+ Mobile Development + Resume + Linkedin Building + Off Campus Job Referral Support + Offcampus Job Search Training + Communication Skills + Interview Skills + Rich Mentoring Community + Daily Live Session for 8 month + Recording available for each live session.  </p>
+   <h1 className='text-center  text-2xl font-sans font-bold mb-5  '> Amazing <span className="text-red-500">Features</span><br/> of our Course.</h1>
+   <p className='text-center lg:w-[80%] sm:text-center text-sm font-semibold sm:w-3/5 font-sans  ' > 800 hour - OA(hard online test asked by companies for coding/DSA) + DSA for interview + Full-stack development (Backend + Frontend )+ Mobile Development + Resume + Linkedin Building + Off Campus Job Referral Support + Offcampus Job Search Training + Communication Skills + Interview Skills + Rich Mentoring Community + Daily Live Session for 8 month + Recording available for each live session.  </p>
 
    </div>
    <div className='flex flex-row flex-wrap items-center justify-center gap-[6rem]'>
@@ -18,7 +18,7 @@ function LowerFeature() {
 
 
     </div>
-    <div className='w-[30rem] bg-gradient-to-r border-2 rounded-2xl from-slate-400 via-neutral-200 to-slate-400 p-[5rem]'>
+    <div className='w-[30rem] bg-gradient-to-r border-2  rounded-2xl from-slate-400 via-neutral-200 to-slate-400 p-[5rem]'>
         <h1 className='text-center text-3xl font-bold mb-[2rem] '>Duration of Program</h1>
         <p className='text-center font-semibold'>Timings : Monday to Friday [8pm-10pm] [Live DSA Training] 
         </p>
