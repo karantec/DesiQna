@@ -29,7 +29,7 @@ const Testimonials = () => {
 const TestimonialCard = ({ name, content }) => {
     return (
         <div className="flex flex-col bg-white justify-between rounded-lg border border-gray-200 p-5 text-gray-800 font-light">
-            <h6 className="font-bold text-sm uppercase text-black text-center mb-2">{name}</h6>
+            <h6 className="font-bold text-sm uppercase text-black text-center ">{name}</h6>
             <p className="text-md leading-tight text-center">
                 <span className="text-2xl font-sans font-bold text-black mr-1">"</span>
                 {content}
