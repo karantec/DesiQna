@@ -7,7 +7,7 @@ const Testimonials = () => {
                 <div className="text-center max-w-xl mx-auto">
                     <h1 className="text-4xl md:text-6xl font-bold mb-5 text-black font-sans">What Students <br />Are Saying</h1>
                 </div>
-                <div className="flex flex-wrap justify-center gap-6">
+                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
                     {/* TestimonialCards */}
                     {testimonialData.map((testimonial, index) => (
                         <TestimonialCard key={index} {...testimonial} />
@@ -28,17 +28,16 @@ const Testimonials = () => {
 
 const TestimonialCard = ({ name, content }) => {
     return (
-        <div className="flex flex-col justify-between rounded-lg border border-gray-200 p-5 text-gray-800 font-light max-w-md w-full">
+        <div className="flex flex-col bg-white justify-between rounded-lg border border-gray-200 p-5 text-gray-800 font-light">
             <h6 className="font-bold text-sm uppercase text-black text-center mb-2">{name}</h6>
             <p className="text-md leading-tight text-center">
                 <span className="text-2xl font-sans font-bold text-black mr-1">"</span>
                 {content}
-                <span className="text-lg leading-none italic font-bold text-gray-400 ml-1">"</span>
+                <span className="text-2xl font-sans font-bold text-black-500 ml-1">"</span>
             </p>
         </div>
     );
 };
-
 // Testimonial data
 const testimonialData = [
     {

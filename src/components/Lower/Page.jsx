@@ -13,12 +13,12 @@ function Lower() {
           <div className=" absolute bg-slate-10 top-[3rem]">
             <Section />
           </div>
-          <div className="mt-[60rem]  lg:mt-[26rem] flex flex-col items-center justify-center mb-[10rem] bg-gradient-to-r to-red-50 from-yellow-100">
-            <div>
-              <h1 className="text-lg lg:text-4xl text-slate-500 font-bold text-center  md:text-center">
+          <div className="mt-[60rem] sm:mt-[40rem] lg:mt-[26rem] flex flex-col items-center justify-center mb-[10rem] bg-gradient-to-r to-red-50 from-yellow-100">
+            <div className="">
+              <h1 className="text-md mt-24 lg:text-3xl text-slate-500 font-bold text-center  md:text-center">
                Why Join Our Personalized 1-1<br/> <span className="text-black">Mentoring + Daily Live Training Program?</span>
               </h1>
-              <p className="text-2xl  lg:text-2xl ml-2 mb-10 mt-6 md:text-center text-slat-400 text-center px-[30rem] lg:px-[12rem]">
+              <p className="text-1xl  lg:text-2xl sm:mt-[10rem] ml-2 mb-10 mt-6 md:text-center text-slat-400 text-center px-[30rem] lg:px-[12rem]">
               Only We Train For <span className="text-red-500 font-bold"> Hard Unseen Online Test + Interview DSA</span> Problems of Top Tech Companies in India.
               </p>
               <p className="text-2xl lg:text-1xl ml-2 mb-10 mt-4 md:text-center text-slat-400 text-center px-[30rem] lg:px-[12rem]">
@@ -39,9 +39,10 @@ function Lower() {
             <LowerFeature />
           </div>
         
-            <LowerTestimonial />
+            
          
         </div>
+        <LowerTestimonial />
       </div>
     </>
   );

@@ -47,16 +47,16 @@ function Section() {
             </li>
         </ol>
             </p>
-            <div className="flex flex-row items-center justify-center  ">
-              <button className="mt-3 flex flex-row  items-center justify-center gap-2  rounded-md px-4 py-2 w-full md:w-auto text-black font-bold">
-                <span>
+            <div className="flex flex-row items-center justify-center ml-4  ">
+              <button className="mt-3 flex flex-row  items-center justify-center gap-2  rounded-md px-2 py-2 w-full md:w-auto text-black font-bold">
+                <span className='ml-3 flex flex-row item-center'>
                   <a href="https://wa.me/918879355057">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       x="0px"
                       y="0px"
-                      width="60"
-                      height="60"
+                      width="45"
+                      height="45"
                       viewBox="0 0 48 48"
                     >
                       <path
@@ -92,8 +92,8 @@ function Section() {
                       xmlns="http://www.w3.org/2000/svg"
                       x="0px"
                       y="0px"
-                      width="60"
-                      height="60"
+                      width="45"
+                      height="45"
                       viewBox="0 0 48 48"
                     >
                       <path
@@ -113,8 +113,8 @@ function Section() {
                       xmlns="http://www.w3.org/2000/svg"
                       x="0px"
                       y="0px"
-                      width="60"
-                      height="60"
+                      width="45"
+                      height="45"
                       viewBox="0 0 48 48"
                     >
                       <path
@@ -144,8 +144,8 @@ function Section() {
                       xmlns="http://www.w3.org/2000/svg"
                       x="0px"
                       y="0px"
-                      width="60"
-                      height="60"
+                      width="45"
+                      height="45"
                       viewBox="0 0 48 48"
                     >
                       <radialGradient
