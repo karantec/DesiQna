@@ -38,9 +38,9 @@ function Lower() {
           <div className="mt-5 pb-5">
             <LowerFeature />
           </div>
-          <div className="bg-slate-200 pt-2 pb-10 mx-[5rem] mt-3">
+        
             <LowerTestimonial />
-          </div>
+         
         </div>
       </div>
     </>

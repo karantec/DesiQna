@@ -1,3 +1,5 @@
+import { FaAngleRight } from 'react-icons/fa';
+
 function Section() {
   return (
     <div className="flex mt-15 flex-col items-center justify-center  ">
@@ -7,7 +9,7 @@ function Section() {
             <img
               className="object-cover object-center rounded-lg shadow-[0px_22px_300px_10px_#f56565,19px_3px_72px_13px_#e2e8f0]"
               alt="hero"
-              src="dp.jpg"
+              src="dpremove.png"
               width="300"
               height="200"
             />
@@ -22,28 +24,31 @@ function Section() {
               <span className="text-black"> SDE @ Amazon</span>
             </p>
             <p className="mt-8 mb-8">
-              <ol>
-                <li className="text-black font-bold">
-                  International Rank 368 in Google KickStart.
-                </li>
-                <li className="text-black font-bold">
-                  All Indian Rank 12 in Google CodeJam.
-                </li>
-                <li className="text-black font-bold">
-                  All India Rank 15 out of 200000 in Hackerearth; From Tier-4
-                  college hence knows the struggle.
-                </li>
-                <li className="text-black font-bold">
-                  All India Rank 26 in LeetCode Weekly Contest.
-                </li>
-                <li className="text-black font-bold">
-                  Have 1 - 1 Mentored 500+ Students in 3 years and 558
-                  students have cracked OFF Campus SDE Offer from TopTech Companies.
-                </li>
-              </ol>
+            <ol className="list-outside">
+            <li className="text-black font-bold flex items-center">
+                <FaAngleRight className="mr-2" />
+                International Rank 368 in Google KickStart.
+            </li>
+            <li className="text-black font-bold flex items-center">
+                <FaAngleRight className="mr-2" />
+                All Indian Rank 12 in Google CodeJam.
+            </li>
+            <li className="text-black font-bold flex items-center">
+                <FaAngleRight className="mr-2" />
+                All India Rank 15 out of 200000 in Hackerearth; From Tier-4 college hence knows the struggle.
+            </li>
+            <li className="text-black font-bold flex items-center">
+                <FaAngleRight className="mr-2" />
+                All India Rank 26 in LeetCode Weekly Contest.
+            </li>
+            <li className="text-black font-bold flex items-center">
+                <FaAngleRight className="mr-2" />
+                Have 1 - 1 Mentored 500+ Students in 3 years and 558 students have cracked OFF Campus SDE Offer from TopTech Companies.
+            </li>
+        </ol>
             </p>
-            <div className="flex flex-row items-center justify-center gap-4 ">
-              <button className="mt-3 flex flex-row  items-center justify-center gap-4  rounded-md px-4 py-2 w-full md:w-auto text-black font-bold">
+            <div className="flex flex-row items-center justify-center  ">
+              <button className="mt-3 flex flex-row  items-center justify-center gap-2  rounded-md px-4 py-2 w-full md:w-auto text-black font-bold">
                 <span>
                   <a href="https://wa.me/918879355057">
                     <svg
