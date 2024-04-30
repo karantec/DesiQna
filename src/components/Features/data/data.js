@@ -79,11 +79,11 @@ export const data={
     },
     user11:{
         id: 10,
-        p:"Tier-3 College to 10LPA SDE offer offcampus  from Zoho",
-        h1:"Student with 0 college placements cracks 10LPA SDE offer offcampus  from Zoho . ",
-        student:"Raj Rai",
-        company:"Zoho Corporation",
-        img:'https://media.licdn.com/dms/image/D5603AQEZNo223WMZsg/profile-displayphoto-shrink_400_400/0/1709796930528?e=1718841600&v=beta&t=FtGgqJOug_I2e2qql5k3V2b0WGq1febUaij3dlnwGXc'
+        p:"Tier-3 College to 25LPA SDE offer offcampus  from  Cisco",
+        h1:"Student with 0 college placements cracks 25LPA SDE offer offcampus  from Cisco . ",
+        student:"Raj Kumar",
+        company:"Cisco",
+        img:'https://media.licdn.com/dms/image/C4E03AQEtNu19hoj9wg/profile-displayphoto-shrink_400_400/0/1631036513588?e=1720051200&v=beta&t=bNOj0K4Gs_HhS3jD_psDpiYbbuE5RyFnrP9CpXjS4_E'
 
 
     },
