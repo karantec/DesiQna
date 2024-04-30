@@ -18,14 +18,14 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4,h5,p5,h6,p6,h7,p7,h8,p8,h9,p9,h10
                 <span className="font-bold text-2xl">1</span>
               </div>
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem]">
-                <h1>{h1}</h1>
+                <h1 className="font-sans font-bold">{h1}</h1>
                 <p>{p1}</p>
               </div>
             </div>
 
             <div className="flex flex-row items-center  gap-3 text-wrap text-center  lg:gap-10">
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem] px-8">
-                <h1>{h2}</h1>
+                <h1 className="font-sans font-bold">{h2}</h1>
                 <p>{p2}</p>
               </div>
               <div className="border-8 border-yellow-300 px-6 py-4 bg-white rounded-full relative z-10 ">
@@ -51,14 +51,14 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4,h5,p5,h6,p6,h7,p7,h8,p8,h9,p9,h10
                 <span className="font-bold text-2xl">3</span>
               </div>
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem]">
-                <h1>{h3}</h1>
+                <h1 className="font-sans font-bold">{h3}</h1>
                 <p>{p3}</p>
               </div>
             </div>
 
             <div className="flex flex-row items-center gap-[1.6rem] text-center text-wrap  lg:gap-10">
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem] px-[2rem]">
-                <h1>{h4}</h1>
+                <h1 className="font-sans font-bold">{h4}</h1>
                 <p>{p4}</p>
               </div>
               <div className="border-8 border-yellow-300 px-6 py-4 bg-white rounded-full relative z-10 ">
@@ -75,7 +75,7 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4,h5,p5,h6,p6,h7,p7,h8,p8,h9,p9,h10
 
             <div className="flex flex-row-reverse items-center gap-3 text-center text-wrap  lg:gap-10">
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem] px-[2rem]">
-                <h1>{h5}</h1>
+                <h1 className="font-sans font-bold">{h5}</h1>
                 <p>{p5}</p>
               </div>
               <div className="border-8 border-yellow-300 px-6 py-4 bg-white rounded-full relative z-10 ">
@@ -92,7 +92,7 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4,h5,p5,h6,p6,h7,p7,h8,p8,h9,p9,h10
 
             <div className="flex flex-row items-center gap-[1.6rem] text-center text-wrap  lg:gap-10">
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem] px-[2rem]">
-                <h1>{h6}</h1>
+                <h1 className="font-sans font-bold">{h6}</h1>
                 <p>{p6}</p>
               </div>
               <div className="border-8 border-yellow-300 px-6 py-4 bg-white rounded-full relative z-10 ">
@@ -108,7 +108,7 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4,h5,p5,h6,p6,h7,p7,h8,p8,h9,p9,h10
             </div>
             <div className="flex flex-row-reverse items-center text-center gap-3 text-wrap  lg:gap-10">
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem] px-[2rem]">
-                <h1>{h7}</h1>
+                <h1 className="font-sans font-bold">{h7}</h1>
                 <p>{p7}</p>
               </div>
               <div className="border-8 border-yellow-300 px-6 py-4 bg-white rounded-full relative z-10 ">
@@ -126,7 +126,7 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4,h5,p5,h6,p6,h7,p7,h8,p8,h9,p9,h10
 
             <div className="flex flex-row items-center gap-[1.6rem] text-center text-wrap  lg:gap-10">
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem] px-[2rem]">
-                <h1>{h8}</h1>
+                <h1 className="font-sans font-bold">{h8}</h1>
                 <p>{p8}</p>
               </div>
               <div className="border-8 border-yellow-300 px-6 py-4 bg-white rounded-full relative z-10 ">
@@ -143,7 +143,7 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4,h5,p5,h6,p6,h7,p7,h8,p8,h9,p9,h10
 
              <div className="flex flex-row-reverse items-center text-center gap-3 text-wrap  lg:gap-10">
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem] px-[2rem]">
-                <h1>{h9}</h1>
+                <h1 className="font-sans font-bold">{h9}</h1>
                 <p>{p9}</p>
               </div>
               <div className="border-8 border-yellow-300 px-6 py-4 bg-white rounded-full relative z-10 ">
@@ -161,7 +161,7 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4,h5,p5,h6,p6,h7,p7,h8,p8,h9,p9,h10
 
              <div className="flex flex-row items-center gap-[1.6rem] text-center text-wrap  lg:gap-10">
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem] px-[2rem]">
-                <h1>{h10}</h1>
+                <h1 className="font-sans font-bold">{h10}</h1>
                 <p>{p10}</p>
               </div>
               <div className="border-8 border-yellow-300 px-6 py-4 bg-white rounded-full relative z-10 ">
@@ -180,7 +180,7 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4,h5,p5,h6,p6,h7,p7,h8,p8,h9,p9,h10
 
              <div className="flex flex-row-reverse items-center text-center gap-3 text-wrap  lg:gap-10">
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem] px-[2rem]">
-                <h1>{h11}</h1>
+                <h1 className="font-sans font-bold">{h11}</h1>
                 <p>{p11}</p>
               </div>
               <div className="border-8 border-yellow-300 px-6 py-4 bg-white rounded-full relative z-10 ">
@@ -197,7 +197,7 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4,h5,p5,h6,p6,h7,p7,h8,p8,h9,p9,h10
 
             <div className="flex flex-row items-center gap-[1.6rem] text-center text-wrap  lg:gap-10">
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem] px-[2rem]">
-                <h1>{h12}</h1>
+                <h1 className="font-sans font-bold">{h12}</h1>
                 <p>{p12}</p>
               </div>
               <div className="border-8 border-yellow-300 px-6 py-4 bg-white rounded-full relative z-10 ">
@@ -215,7 +215,7 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4,h5,p5,h6,p6,h7,p7,h8,p8,h9,p9,h10
 
             <div className="flex flex-row-reverse items-center text-center gap-3 text-wrap  lg:gap-10">
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem] px-[2rem]">
-                <h1>{h13}</h1>
+                <h1 className="font-sans font-bold">{h13}</h1>
                 <p>{p13}</p>
               </div>
               <div className="border-8 border-yellow-300 px-6 py-4 bg-white rounded-full relative z-10 ">
@@ -231,7 +231,7 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4,h5,p5,h6,p6,h7,p7,h8,p8,h9,p9,h10
             </div>
             <div className="flex flex-row items-center gap-[1.6rem] text-center text-wrap  lg:gap-10">
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem] px-[2rem]">
-                <h1>{h14}</h1>
+                <h1 className="font-sans font-bold">{h14}</h1>
                 <p>{p14}</p>
               </div>
               <div className="border-8 border-yellow-300 px-6 py-4 bg-white rounded-full relative z-10 ">
@@ -258,14 +258,14 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4,h5,p5,h6,p6,h7,p7,h8,p8,h9,p9,h10
                 <span className="font-bold text-2xl">15</span>
               </div>
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem]">
-                <h1>{h15}</h1>
+                <h1 className="font-sans font-bold">{h15}</h1>
                 <p>{p15}</p>
               </div>
             </div>
 
             <div className="flex flex-row items-center gap-[1.6rem] text-center text-wrap  lg:gap-10">
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem] px-[2rem]">
-                <h1>{h16}</h1>
+                <h1 className="font-sans font-bold">{h16}</h1>
                 <p>{p16}</p>
               </div>
               <div className="border-8 border-yellow-300 px-6 py-4 bg-white rounded-full relative z-10 ">
@@ -291,14 +291,14 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4,h5,p5,h6,p6,h7,p7,h8,p8,h9,p9,h10
                 <span className="font-bold text-2xl">17</span>
               </div>
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem]">
-                <h1>{h17}</h1>
+                <h1 className="font-sans font-bold">{h17}</h1>
                 <p>{p17}</p>
               </div>
             </div>
 
             <div className="flex flex-row items-center gap-[1.6rem] text-center text-wrap  lg:gap-10">
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem] px-[2rem]">
-                <h1>{h18}</h1>
+                <h1 className="font-sans font-bold">{h18}</h1>
                 <p>{p19}</p>
               </div>
               <div className="border-8 border-yellow-300 px-6 py-4 bg-white rounded-full relative z-10 ">
@@ -325,14 +325,14 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4,h5,p5,h6,p6,h7,p7,h8,p8,h9,p9,h10
                 <span className="font-bold text-2xl">19</span>
               </div>
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem]">
-                <h1>{h19}</h1>
+                <h1 className="font-sans font-bold">{h19}</h1>
                 <p>{p19}</p>
               </div>
             </div>
 
             <div className="flex flex-row items-center gap-[1.6rem] text-center text-wrap  lg:gap-10">
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem] px-[2rem]">
-                <h1>{h20}</h1>
+                <h1 className="font-sans font-bold">{h20}</h1>
                 <p>{p20}</p>
               </div>
               <div className="border-8 border-yellow-300 px-6 py-4 bg-white rounded-full relative z-10 ">
@@ -358,7 +358,7 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4,h5,p5,h6,p6,h7,p7,h8,p8,h9,p9,h10
                 <span className="font-bold text-2xl">21</span>
               </div>
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem]">
-                <h1>{h21}</h1>
+                <h1 className="font-sans font-bold">{h21}</h1>
                 <p>{p21}</p>
               </div>
             </div>
@@ -366,7 +366,7 @@ function Info({ h1, p1, h2, p2, p3, p4, h3, h4,h5,p5,h6,p6,h7,p7,h8,p8,h9,p9,h10
 
             <div className="flex flex-row items-center gap-[1.6rem] text-center text-wrap  lg:gap-10 ">
               <div className="lg:w-[20rem] md:w-[15rem] w-[8rem] px-[2rem]">
-                <h1>{h22}</h1>
+                <h1 className="font-sans font-bold">{h22}</h1>
                 <p>{p22}</p>
               </div>
               <div className="border-8 border-yellow-300 px-6 py-4 bg-white rounded-full relative z-10 ">

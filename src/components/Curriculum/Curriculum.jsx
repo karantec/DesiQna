@@ -29,7 +29,7 @@ const Curriculum = () => {
     h11={componentData.component1.heading11}
     p11={componentData.component1.para11}
     h12={componentData.component1.heading12}
-    p12={componentData.component1.heading12}
+    p12={componentData.component1.para12}
     h13={componentData.component1.heading13}
     p13={componentData.component1.para13}
     h14={componentData.component1.heading14}
