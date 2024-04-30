@@ -79,7 +79,7 @@ export const data={
     },
     user11:{
         id: 10,
-        p:"Tier-3 College to 25LPA SDE offer offcampus  from  Cisco",
+        p:"Tier-3 College to 25LPA SDE offer off Campus  from  Cisco",
         h1:" Student fully beginner at DSA; cracks Cisco 25 LPA Offer after 5 month FAANG level DSA + OA + Mock Interview Training + 800 hour course! . ",
         student:"Raj Kumar",
         company:"Cisco",
