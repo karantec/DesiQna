@@ -50,7 +50,7 @@ function Section() {
             <div className="flex flex-row items-center justify-center ml-4  ">
               <button className="mt-3 flex flex-row  items-center justify-center gap-2  rounded-md px-2 py-2 w-full md:w-auto text-black font-bold">
                 <span className='ml-3 flex flex-row item-center'>
-                  <a href="https://wa.me/918879355057">
+                  <a href="https://wa.me/918879355057" target="_blank">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       x="0px"
@@ -87,7 +87,7 @@ function Section() {
               </button>
               <button className="mt-3 flex flex-row  items-center justify-center gap-4  rounded-md px-4 py-2 w-full md:w-auto text-black font-bold">
                 <span>
-                  <a href="https://youtube.com/@kumark6326">
+                  <a href="https://youtube.com/@kumark6326" target="_blank">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       x="0px"
@@ -108,7 +108,7 @@ function Section() {
 
               <button className="mt-3 flex flex-row  items-center justify-center gap-4  rounded-md px-4 py-2 w-full md:w-auto text-black font-bold">
                 <span>
-                  <a href="https://www.linkedin.com/in/kumark1/">
+                  <a href="https://www.linkedin.com/in/kumark1/" target="_blank">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       x="0px"
@@ -139,7 +139,7 @@ function Section() {
               </button>
               <button className="mt-3 flex flex-row  items-center justify-center gap-4  rounded-md px-4 py-2 w-full md:w-auto text-black font-bold">
                 <span>
-                  <a href="https://www.instagram.com/kumark_desiqna/">
+                  <a href="https://www.instagram.com/kumark_desiqna/" target="_blank">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       x="0px"
