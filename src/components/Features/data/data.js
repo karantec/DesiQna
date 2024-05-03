@@ -3,7 +3,7 @@ export const data={
        user0:{
         id: 0,
         p:"Service Based to Product Based",
-        h1:"Student cracks 40 LPA Off Campus SDE Offers from PhonePe and Precisely after 8 months of FAANG level DSA(OA + Interview) Training with us!",
+        h1:"Student cracks Off Campus SDE Offers from PhonePe and Precisely after 8 months of FAANG level DSA(OA + Interview) Training with us!",
         student:"Sharmistha Chakraborty",
         company:"PhonePe",
         img:'https://media.licdn.com/dms/image/D5603AQExEfwi7W9a7Q/profile-displayphoto-shrink_400_400/0/1706545184786?e=1720051200&v=beta&t=pcGdOna8sreBweE50jYnFk6oQ3AIw1fklMnw81-E2Lc'
@@ -13,7 +13,7 @@ export const data={
     
     user1:{
         id: 1,
-        p:"Tier-4 College to 40+ LPA",
+        p:"Tier-3 College to 40+ LPA",
         h1:"Pranav cracks off campus SDE Intern + Fulltime offer from Linkedin(40 LPA CTC) after 8 months of FAANG level DSA(OA + Interview) Training with us!",
         student:"Pranav Kulkarni",
         company:"Linkedin",

@@ -1,6 +1,5 @@
 import React from "react";
 import Section from "./components/section";
-import Swipe from "../swipe/Swipe";
 import LowerFeature from "./components/LowerFeature";
 import LowerTestimonial from "./components/LowerTestimonial";
 import VideoGallery from "../VideoGallery/VideoGallery";

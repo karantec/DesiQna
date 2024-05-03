@@ -2,6 +2,7 @@ import Page from "../Features/page";
 import {data} from "./data/data"
 import Lower from "../Lower/Page";
 import CPPage from "../Features copy/page"
+import RecPage from "../Recent/page";
 
 function HeroSection() {
   return (
@@ -51,7 +52,7 @@ function HeroSection() {
           </div>
         </section>
       </section>
-
+       <RecPage/>
       <Page />
       <CPPage/>
 

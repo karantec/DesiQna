@@ -4,7 +4,7 @@ import Feature from './components/Feature';
 import "./Page.css"
 import "animate.css"
 
-function Page() {
+function RecPage() {
   const [selectedUser, setSelectedUser] = useState(data.user1);
   const [activeIndex, setActiveIndex] = useState(null);
   const [animate, setAnimate] = useState(null);
@@ -19,7 +19,6 @@ function Page() {
   };
 
   return (
-  
     <div id="topachiver" className="flex flex-col items-center justify-center bg-gradient-to-r to-red-50 from-yellow-100 pb-10">
       <div className={`${animate}`}>
         <Feature
@@ -37,7 +36,7 @@ function Page() {
             <img
               className={`relative z-10 inline-block h-10 w-10 rounded-full ring-2 ring-white hover:border-4 transition-all duration-500`}
               src={user.img}
-              alt={user.company}
+              alt={user.img}
             />
           </button>
         ))}
@@ -53,4 +52,4 @@ function Page() {
   );
 }
 
-export default Page;
+export default RecPage;
