@@ -10,6 +10,6 @@ export const data ={
     ul3:`850 hours structured course on DSA(OA + Interview) with 24 *7 doubt Support `,
     ul4:`(Separate Batch for college students/freshers/working professionals/Non-IT graduates) :- We have high number of selections in each of the categories`,
     button:'Enroll Now',
-    butt2:'Bronchure',
+    butt2:'Brochure',
     img:'section2.jpg'
 }
