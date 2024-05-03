@@ -27,11 +27,16 @@ function HeroSection() {
               </ol>
              
              
-              <div className="flex justify-center md:justify-start">
+              <div className="flex justify-center md:justify-start space-x-4">
                 {/* Move buttons here */}
                 <a href="https://wa.me/918879355057" target="_blank" rel="noopener noreferrer">
                   <button className="text-red hover:before:bg-red border-2 rounded-lg border-orange-500 relative h-12 w-40 overflow-hidden bg-white px-3 text-red-500 shadow-2xl transition-all before:absolute before:bottom-0 before:left-0 before:top-0 before:z-0 before:h-full before:w-0 before:bg-orange-500 before:transition-all before:duration-500 hover:text-white hover:shadow-orange-500 hover:before:left-0 hover:before:w-full">
                     <span className="relative z-10  text-2xl ">{data.button}</span>
+                  </button>
+                </a>
+                <a href="https://drive.google.com/file/d/1Jjs4GyrOqbLxZgFz1VhWXMP9xH3zAt4G/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                  <button className="text-red hover:before:bg-red border-2 rounded-lg border-orange-500 relative h-12 w-40 overflow-hidden bg-white px-3 text-red-500 shadow-2xl transition-all before:absolute before:bottom-0 before:left-0 before:top-0 before:z-0 before:h-full before:w-0 before:bg-orange-500 before:transition-all before:duration-500 hover:text-white hover:shadow-orange-500 hover:before:left-0 hover:before:w-full">
+                    <span className="relative z-10  text-2xl ">{data.butt2}</span>
                   </button>
                 </a>
               </div>
