@@ -10,7 +10,7 @@ function Page() {
     attributes: {
       Title: "Tier-3 College to World Rank-50",
       Content: "Student gets World Rank 50/25000 in LeetCode DSA Contest",
-      Student: "Vinit Tekwani",
+      Name: "Vinit Tekwani",
       Company: "https://www.linkedin.com/feed/update/urn:li:activity:7164647759717752832/",
       imageLink: "https://res.cloudinary.com/dlxds69s7/image/upload/v1714793777/1673364727709_c44162d307.jpg"
     }
