@@ -2,8 +2,10 @@ import { FaAngleRight } from 'react-icons/fa';
 
 function Section() {
   return (
+
     <div className="flex mt-15 flex-col items-center justify-center  ">
       <section className="text-gray-600 body-font bg-gradient-to-r to-red-50 from-yellow-100 max-w-screen-lg mx-auto px-5 sm:px-10 py-10 shadow-[4px_4px_4px_0px_#a0aec0]">
+        
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
           <div className="md:max-w-lg md:w-full mx-auto">
             <img

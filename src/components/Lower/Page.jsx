@@ -7,8 +7,9 @@ import VideoGallerys from "../Selection/VideoGallery";
 function Lower() {
   return (
     <>
+    <h1 className="text-center font-bold bg-gradient-to-r to-red-50 from-yellow-100 text-gray-700 font-sans text-4xl  uppercase top-perfor">Meet Your Mentor</h1>
       <div className="relative flex flex-col   bg-gradient-to-r to-red-50 from-yellow-100 items-center justify-center overflow-x-hidden pb-10">
-        <div className="flex flex-col items-center justify-center flex-wrap mt-56 w-[80rem] ">
+        <div className="flex flex-col items-center justify-center flex-wrap mt-64 w-[80rem] ">
           <div className=" absolute bg-slate-10 top-[3rem]">
             <Section />
           </div>
