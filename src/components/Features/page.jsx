@@ -8,11 +8,11 @@ import axios from "axios";
 function Page() {
   const [selectedUser, setSelectedUser] = useState({
     attributes: {
-      Title: "Tier-3 College to 25LPA SDE offer off Campus from Cisco",
-      Content: "Student fully beginner at DSA; cracks Cisco 25 LPA Offer after 5 month FAANG level DSA + OA + Mock Interview Training + 800 hour course!",
-      Student: "Raj Kumar",
-      Company: "Cisco",
-      imageLink: "https://res.cloudinary.com/dlxds69s7/image/upload/v1714759551/1631036513588_8fd792f9f2.jpg"
+      Title: "Tier-4 College to 40+ LPA",
+      Content: "Pranav cracks off campus SDE Intern + Fulltime offer from Linkedin(40 LPA CTC) after 8 months of FAANG level DSA(OA + Interview) Training with us!",
+      Student: "Pranav Kulkarni",
+      Company: "Linkedin",
+      imageLink: "https://res.cloudinary.com/dlxds69s7/image/upload/v1714758483/1712824265014_87edb8a769.jpg"
     }
   });
   const [activeIndex, setActiveIndex] = useState(null);
