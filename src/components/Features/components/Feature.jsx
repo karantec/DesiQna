@@ -1,4 +1,4 @@
-function Feature({ p, h1, company, details, student, img }) {
+function Feature({ p, h1, company, student, img }) {
   return (
     <>
       <div >
@@ -13,9 +13,9 @@ function Feature({ p, h1, company, details, student, img }) {
               <h1 className="title-font mt-2 md:mt-0 sm:text-4xl lg:text-2xl mb-4 font-bold text-gray-900 text-center md:text-left">
                 {h1}
               </h1>
-              <p className="mb-4 leading-relaxed text-black text-center md:text-left">
+              {/* <p className="mb-4 leading-relaxed text-black text-center md:text-left">
                 {details}
-              </p>
+              </p> */}
               <div className="flex gap-10 mt-3 justify-center md:justify-start">
                 <span className="text-xl text-white bg-gray-500 rounded-md p-3 font-bold">
                   {student}
