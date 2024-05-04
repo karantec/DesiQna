@@ -1,5 +1,8 @@
-
+import { useEffect,useState } from "react";
+import axios from "axios";
+import { DOMAIN } from "../../env/env";
 function VideoGallerys() {
+  const [video,setVideo] = useState([])
   const videos = [
     "https://www.youtube.com/embed/iCIa-hY3Ov4?si=qtYMWcqbnFQUkkqC",
     "https://www.youtube.com/embed/JPz8H6uumgQ?si=DhPnS8fHXMO7_aGQ",
@@ -9,14 +12,34 @@ function VideoGallerys() {
     "https://www.youtube.com/embed/8w0dh34hJNM?si=00c0tNPHNQJAXFz7",
   ];
 
+  useEffect(()=>{
+  fetchVideo()
+  },[])
+
+  async function fetchVideo(){
+    try {
+      const response  = await axios.get(`${DOMAIN}api/youtube-videos`);
+      const {data}  =  await response;
+      setVideo(data.data)
+      console.log(data.data)
+    } catch (error) {
+      setVideo([])
+      
+    }
+
+  }
+
+
+
+
   return (
     <div className="flex flex-col items-center justify-center pb-10">
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-8 p-4">
-        {videos.map((videoUrl, index) => (
+        {video.map((videoUrl, index) => (
           <div key={index} className="aspect-w-16 aspect-h-9 items-center">
             <iframe
               className="w-full h-full"
-              src={videoUrl}
+              src={videoUrl.attributes.Links}
               title={`YouTube video ${index + 1}`}
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
