@@ -21,7 +21,6 @@ function VideoGallerys() {
       const response  = await axios.get(`${DOMAIN}api/youtube-videos`);
       const {data}  =  await response;
       setVideo(data.data)
-      console.log(data.data)
     } catch (error) {
       setVideo([])
       
