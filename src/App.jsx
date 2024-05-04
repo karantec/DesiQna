@@ -6,6 +6,7 @@ import {BrowserRouter as Router ,Route, Routes } from 'react-router-dom';
 import About from './components/about/About';
 import Curriculum from './components/Curriculum/Curriculum';
 import ScrollToTop from './components/ArrowScroll/Arrow';
+import Archiver from './components/Archvier/Archiver';
 
 const App = () => {
 
@@ -20,6 +21,8 @@ const App = () => {
       <Route path='/contact' element={<Contact/>}/>
       <Route path='/about' element={<About/>}/>
       <Route path="/Curriculum" element={<Curriculum/>}/>
+      <Route path="/achiver" element={<Archiver/>}/>
+
       
     </Routes>
     

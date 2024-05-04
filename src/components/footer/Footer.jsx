@@ -1,4 +1,4 @@
-import { ChevronRight } from 'lucide-react';
+import { ChevronRight, Facebook, Linkedin, Instagram, Youtube } from 'lucide-react';
 
 export function Footer() {
   return (
@@ -18,7 +18,14 @@ export function Footer() {
             </svg>
             <span className="ml-4 text-lg text-red-500 italic font-bold uppercase">Desiqna</span>
           </div>
-          <div className="mt-4 md:mt-0">
+          <div className="flex items-center mt-4 md:mt-0 space-x-4">
+            {/* Social media icons */}
+            <Facebook size={24} color="#3b5998" />
+            <Linkedin size={24} color="#0077b5" />
+            <Instagram size={24} color="#e4405f" />
+            <Youtube size={24} color="#ff0000" />
+          </div>
+          <div>
             <p className="text-sm font-medium text-gray-500">© 2023 DesiQna. All rights reserved.</p>
           </div>
         </div>
