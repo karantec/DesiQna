@@ -64,6 +64,7 @@ const Curriculum = () => {
       <div className="flex flex-col lg:flex-row gap-2 lg:gap-5 items-center justify-center ">
         <div>
           <button
+          role="button"
             onClick={() => {
               handleButtonClick("button1");
               setComp( <Info
@@ -122,6 +123,7 @@ const Curriculum = () => {
         </div>
         <div>
           <button
+          role="button"
             onClick={() => {
               handleButtonClick("button2");
               setComp( <Info
@@ -180,6 +182,7 @@ const Curriculum = () => {
         </div>
         <div>
           <button
+          role="button"
             onClick={() => {
               handleButtonClick("button3");
               setComp(
@@ -239,6 +242,7 @@ const Curriculum = () => {
         </div>
         <div>
           <button
+          role="button"
             onClick={() => {
               handleButtonClick("button4");
               setComp(<FullStack

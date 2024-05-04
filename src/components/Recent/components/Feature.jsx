@@ -21,10 +21,11 @@ function Feature({ p, h1, company, details, student, img }) {
                   {student}
                 </h1>
                 <img src={company} 
-                width={160} 
+                width={160}
+                alt="img" 
                 height={70} 
                 className="text-xl text-white  rounded-md p-3 font-bold flex items-center justify-center">
-                  
+              
                 </img>
               </div>
               

@@ -53,8 +53,8 @@ const TestimonialCard = ({ name, content,profile }) => {
     return (
         <div className="flex flex-col bg-white justify-between rounded-lg border border-gray-200 p-5 text-gray-800 font-light">
             <div className="flex  justify-center items-center ">
-                <h6 className="font-bold text-sm uppercase text-black text-center mb-1 ">{name}</h6>
-                <a href={profile} target="_blank" rel="noopener noreferrer" className="flex items-center">
+                <span className="font-bold text-sm uppercase text-black text-center mb-1 ">{name}</span>
+                <a aria-label="profile" href={profile} target="_blank" rel="noopener noreferrer" className="flex items-center">
                     <FaLinkedin className="text-blue-500 mr-1 text-center ml-3" />
                 </a>
             </div>

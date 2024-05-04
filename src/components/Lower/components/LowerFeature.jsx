@@ -10,11 +10,11 @@ function LowerFeature() {
    </div>
    <div className='flex flex-row flex-wrap items-center justify-center gap-[6rem] bg-gradient-to-r to-red-50 from-yellow-100'>
     <div className='flex flex-col items-center justify-center gap-5'>
-        <button className='  shadow-md p-4 border rounded-2xl text-center font-semibold w-[15rem]  bg-gradient-to-r to-red-50 from-yellow-100'>Job Referral Support</button>
-        <button className=' shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold  bg-gradient-to-r to-red-50 from-yellow-100'>Personalized Linkedin + Resume Improvement </button>
-        <button className='  shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold bg-gradient-to-r to-red-50 from-yellow-100 '>Language of Program : English</button>
-        <button className='  shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold   bg-gradient-to-r to-red-50 from-yellow-100' >Languages used for DSA Training : C++/Java/Python</button>
-        <button className=' shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold   bg-gradient-to-r to-red-50 from-yellow-100'>More than 500 students have cracked 10+LPA offers</button>
+        <button role="button" className='  shadow-md p-4 border rounded-2xl text-center font-semibold w-[15rem]  bg-gradient-to-r to-red-50 from-yellow-100'>Job Referral Support</button>
+        <button role="button" className=' shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold  bg-gradient-to-r to-red-50 from-yellow-100'>Personalized Linkedin + Resume Improvement </button>
+        <button role="button" className='  shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold bg-gradient-to-r to-red-50 from-yellow-100 '>Language of Program : English</button>
+        <button role="button"  className='  shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold   bg-gradient-to-r to-red-50 from-yellow-100' >Languages used for DSA Training : C++/Java/Python</button>
+        <button  role="button"  className=' shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold   bg-gradient-to-r to-red-50 from-yellow-100'>More than 500 students have cracked 10+LPA offers</button>
 
 
     </div>
@@ -37,11 +37,11 @@ function LowerFeature() {
 
     </div>
     <div className='flex flex-col items-center justify-center gap-5 bg-gradient-to-r to-red-50 from-yellow-100'>
-        <button className='bg-gradient-to-r to-red-50 from-yellow-100 shadow-md p-4 border-2  rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Sat-Sun :- Live Off Campus Job Hunt Training </button>
-        <button className='bg-gradient-to-r to-red-50 from-yellow-100  shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Placement Preparation Course + Mentoring + Training</button>
-        <button className='bg-gradient-to-r to-red-50 from-yellow-100  shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Looking for a job in the IT field(wants to switch from Non IT to IT).</button>
-        <button className='bg-gradient-to-r to-red-50 from-yellow-100  shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Lowest cost in the whole country despite 600 10+LPA selections </button>
-        <button className='bg-gradient-to-r to-red-50 from-yellow-100 shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>For Development + System  Design We have Dev Mentor from  SDE from  @Goldman Sachs</button>
+        <button role="button"  className='bg-gradient-to-r to-red-50 from-yellow-100 shadow-md p-4 border-2  rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Sat-Sun :- Live Off Campus Job Hunt Training </button>
+        <button role="button"  className='bg-gradient-to-r to-red-50 from-yellow-100  shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Placement Preparation Course + Mentoring + Training</button>
+        <button role="button"  className='bg-gradient-to-r to-red-50 from-yellow-100  shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Looking for a job in the IT field(wants to switch from Non IT to IT).</button>
+        <button role="button"  className='bg-gradient-to-r to-red-50 from-yellow-100  shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>Lowest cost in the whole country despite 600 10+LPA selections </button>
+        <button role="button"  className='bg-gradient-to-r to-red-50 from-yellow-100 shadow-md p-4 border rounded-2xl text-center w-[15rem] font-semibold  hover:bg-orange-100'>For Development + System  Design We have Dev Mentor from  SDE from  @Goldman Sachs</button>
 
 
     </div>

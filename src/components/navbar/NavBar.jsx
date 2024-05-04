@@ -36,7 +36,7 @@ export function Navbar() {
   </h1>
   {"   " }
   <Link to= "https://wa.me/918879355057">
-  <button className='mt-2 mb-2  font-sans lg:text-1xl  font-bold uppercase rounded-lg sm:text-base py-1 px-1  sm:mr-3 bg-red-500 text-white  items-center top-enroll-btn'>
+  <button role="button" className='mt-2 mb-2  font-sans lg:text-1xl  font-bold uppercase rounded-lg sm:text-base py-1 px-1  sm:mr-3 bg-red-500 text-white  items-center top-enroll-btn'>
     Enroll Now
   </button></Link>
 </div>

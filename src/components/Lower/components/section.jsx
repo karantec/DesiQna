@@ -15,7 +15,6 @@ function Section() {
             />
           </div>
           <div className="flex flex-col items-center md:items-start">
-            <h5 className="text-white text-center md:text-left"></h5>
             <h1 className="font-sans text-4xl mb-4 mt-3 font-bold uppercase text-black text-center md:text-left">
               Kumar K (Karan Kumar)
             </h1>
@@ -48,9 +47,9 @@ function Section() {
         </ol>
             </p>
             <div className="flex flex-row items-center justify-center ml-4  ">
-              <button className="mt-3 flex flex-row  items-center justify-center gap-2  rounded-md px-2 py-2 w-full md:w-auto text-black font-bold">
-                <span className='ml-3 flex flex-row item-center'>
-                  <a href="https://wa.me/918879355057" target="_blank">
+              <button role='button' className="mt-3 flex flex-row  items-center justify-center gap-2  rounded-md px-2 py-2 w-full md:w-auto text-black font-bold">
+                <span aria-label="class" className='ml-3 flex flex-row item-center'>
+                  <a aria-label='whatsapp' href="https://wa.me/918879355057" target="_blank">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       x="0px"
@@ -85,9 +84,9 @@ function Section() {
                   </a>
                 </span>
               </button>
-              <button className="mt-3 flex flex-row  items-center justify-center gap-4  rounded-md px-4 py-2 w-full md:w-auto text-black font-bold">
+              <button role='button' className="mt-3 flex flex-row  items-center justify-center gap-4  rounded-md px-4 py-2 w-full md:w-auto text-black font-bold">
                 <span>
-                  <a href="https://youtube.com/@kumark6326" target="_blank">
+                  <a aria-label='youtube' href="https://youtube.com/@kumark6326" target="_blank">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       x="0px"
@@ -106,9 +105,9 @@ function Section() {
                 </span>
               </button>
 
-              <button className="mt-3 flex flex-row  items-center justify-center gap-4  rounded-md px-4 py-2 w-full md:w-auto text-black font-bold">
+              <button role='button' className="mt-3 flex flex-row  items-center justify-center gap-4  rounded-md px-4 py-2 w-full md:w-auto text-black font-bold">
                 <span>
-                  <a href="https://www.linkedin.com/in/kumark1/" target="_blank">
+                  <a aria-label='linkdin' href="https://www.linkedin.com/in/kumark1/" target="_blank">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       x="0px"
@@ -137,9 +136,9 @@ function Section() {
                   </a>
                 </span>
               </button>
-              <button className="mt-3 flex flex-row  items-center justify-center gap-4  rounded-md px-4 py-2 w-full md:w-auto text-black font-bold">
+              <button role='button' className="mt-3 flex flex-row  items-center justify-center gap-4  rounded-md px-4 py-2 w-full md:w-auto text-black font-bold">
                 <span>
-                  <a href="https://www.instagram.com/kumark_desiqna/" target="_blank">
+                  <a aria-label='instagram' href="https://www.instagram.com/kumark_desiqna/" target="_blank">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       x="0px"

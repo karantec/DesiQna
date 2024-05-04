@@ -12,8 +12,8 @@ function LowerFooter() {
         <p className='text-center pl-8 pr-8 text-gray-300 font-bold'>
           
           "When you join DesiQNA, you gain access to a wealth of resources and support that are meticulously crafted to align with your career aspirations. Our seasoned industry professionals, with years of experience across various domains, are dedicated to helping you unlock your full potential.!"</p>
-        <a href="https://wa.me/918879355057">
-        <button className="text-red hover:before:bg-red border-2  rounded-lg 
+        <a aria-label="class" href="https://wa.me/918879355057">
+        <button role="button"  className="text-red hover:before:bg-red border-2  rounded-lg 
                        border-orange-500  relative h-12 w-40 
                        overflow-hidden bg-white px-3 text-red-500
                        shadow-2xl transition-all before:absolute 

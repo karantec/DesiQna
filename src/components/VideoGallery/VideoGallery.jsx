@@ -3,14 +3,7 @@ import axios from "axios";
 import { DOMAIN } from "../../env/env";
 function VideoGallery() {
   const [video,setVideo] = useState([])
-  const videos = [
-    "https://www.youtube.com/embed/tRddj5uBAHs?si=chc_cMSXLfdOXre2",
-    "https://www.youtube.com/embed/v6tOS9Lf2VQ?si=eb6dw1_3C0BTTMda",
-    "https://www.youtube.com/embed/QUfiCT9RyGk?si=uvnQdtrdSmwfbqgk",
-    "https://www.youtube.com/embed/vky0RHci1Oc?si=Dz8EWh4bvDFb_3-Q",
-    "https://www.youtube.com/embed/Af0rakBI7RE?si=fREXjvoIdLULvNaw",
-    "https://www.youtube.com/embed/2fQEiI2x9RM?si=Oo8PkUiOg9g1Lazu",
-  ];
+
   useEffect(()=>{
     fetchVideo()
     },[])
@@ -39,11 +32,7 @@ function VideoGallery() {
             <iframe
               className="w-full h-full"
               src={videoUrl.attributes.Link}
-              title={`YouTube video ${index + 1}`}
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerpolicy="strict-origin-when-cross-origin"
-              allowfullscreen
+              title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
             ></iframe>
           </div>
         ))}
