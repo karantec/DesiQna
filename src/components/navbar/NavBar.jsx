@@ -17,7 +17,7 @@ const menuItems = [
   },
   {
     name: 'Top Achievers',
-    href: '/#topachiver',
+    href: '/achiver',
   },
 ]
 
