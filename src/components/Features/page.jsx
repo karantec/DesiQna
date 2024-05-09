@@ -12,7 +12,7 @@ function Page() {
       Title: "Tier-4 College to 40+ LPA",
       Content: "Pranav cracks off campus SDE Intern + Fulltime offer from Linkedin(40 LPA CTC) after 8 months of FAANG level DSA(OA + Interview) Training with us!",
       Student: "Pranav Kulkarni",
-      Company: "https://res.cloudinary.com/dlxds69s7/image/upload/v1714919616/Linked_In_Logo_with_0f75d5f519.png",
+      Company: "Linkedin",
       imageLink: "https://res.cloudinary.com/dlxds69s7/image/upload/v1714758483/1712824265014_87edb8a769.jpg"
     }
   });
@@ -64,7 +64,7 @@ function Page() {
             className="image-button"
           >
             <img
-              className={`relative z-10 inline-block h-10 w-10 rounded-full ring-2 ring-white hover:border-4 transition-all duration-500`}
+              className={`relative z-10 inline-block h-10 w-10 rounded-full `}
               src={user.attributes.imageLink}
               alt=""
             />

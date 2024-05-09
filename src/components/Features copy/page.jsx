@@ -62,7 +62,7 @@ function Page() {
             className="image-button"
           >
             <img
-              className={`relative z-10 inline-block h-10 w-10 rounded-full ring-2 ring-white hover:border-4 transition-all duration-500`}
+              className={`relative z-10 inline-block h-10 w-10 rounded-full `}
               src={user.attributes.imageLink}
               alt=""
             />

@@ -20,9 +20,8 @@ function Feature({ p, h1, company, student, img }) {
                 <span className="text-xl text-white bg-gray-500 rounded-md p-3 font-bold">
                   {student}
                 </span>
-                <span className="text-xl text-white dark:  rounded-md p-3 font-bold flex items-center justify-center">
-                  {/* {company} */}
-                  <img className="w-30 h-10" src={company} alt="company" />
+                <span className="text-xl text-white dark: bg-blue-800 rounded-md p-3 font-bold flex items-center justify-center">
+                  {company}
                 </span>
               </div>
             </div>

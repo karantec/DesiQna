@@ -144,7 +144,7 @@ const CardComponent = () => {
     
     },
     
-    { imageSrc: 'https://dummyimage.com/720x400',
+    { imageSrc: 'name.jpg',
      subtitle: 'Tier -3 to Cisco OFF campus',
       content: 'Cracks Cisco after 8 month Faang level DSA + OA Training',
       student:'Naman Khurana.',
@@ -177,7 +177,7 @@ const CardComponent = () => {
     
     },
     
-    { imageSrc: 'https://media.licdn.com/dms/image/D4D03AQHIgE68DOVAvg/profile-displayphoto-shrink_400_400/0/1688485326343?e=1720656000&v=beta&t=YcGgeiTY00EiLuJ0goONv8K5PVmScRSsgWVXldlgqpg',
+    { imageSrc: 'https://s3.amazonaws.com/37assets/svn/765-default-avatar.png',
      subtitle: 'SUBTITLE 1', title: 'Card Title 1',
       content: 'Student cracks ZScaler after 8 month training for FAANG level OA + Interview. ',
       student:'Aarav Srivastava',
@@ -250,7 +250,7 @@ const CardComponent = () => {
     
     
     },
-    { imageSrc: 'https://dummyimage.com/720x400',
+    { imageSrc: 'https://s3.amazonaws.com/37assets/svn/765-default-avatar.png',
      subtitle: 'SDE Offer OFF Campus Microsoft', 
       content: 'Student with 0 job offer as 2023 Grad cracks off campus Salesforce SDE Offer 40 LPA',
       student:'Umang Sharma.',
@@ -301,7 +301,7 @@ const CardComponent = () => {
     { 
      
 
-     imageSrc: 'https://dummyimage.com/720x400',
+     imageSrc: 'https://s3.amazonaws.com/37assets/svn/765-default-avatar.png',
      subtitle: 'Tier-3 College to 25LPA SDE offer off Campus from Cisco', 
       content: '2024 Grad student cracks 12 LPA SDE Role in top tech startup       ',
       student:'Ayushi Sood',
@@ -330,7 +330,7 @@ const CardComponent = () => {
     
     },
     
-    { imageSrc: 'https://dummyimage.com/720x400',
+    { imageSrc: 'https://s3.amazonaws.com/37assets/svn/765-default-avatar.png',
      subtitle: 'Tier -3 to Cisco OFF campus',
       content: 'Cracks Cisco after 8 month Faang level DSA + OA Training',
       student:'Raghav.',
@@ -361,7 +361,7 @@ const CardComponent = () => {
     
     },
     
-    { imageSrc: 'https://dummyimage.com/720x400',
+    { imageSrc: 'https://s3.amazonaws.com/37assets/svn/765-default-avatar.png',
      subtitle: 'SUBTITLE 1', title: 'Card Title 1',
       content: 'My student cracks OffCampus Amazon Offer despite being a 2023 Grad with 0 job offer . ',
       student:'Arindam Dutta',
@@ -415,7 +415,7 @@ const CardComponent = () => {
     
     
     },
-    { imageSrc: 'https://dummyimage.com/720x400',
+    { imageSrc: 'https://s3.amazonaws.com/37assets/svn/765-default-avatar.png',
        subtitle: 'Tier-3 CStudent cracked 18 lpa SDE Offer Off-campus from product based company ExperianCard Title 1',
       content: 'students crack 20 LPA Zscaler SDE(Intern + PPO) Offer ',
       student:'Aarav',
@@ -433,7 +433,7 @@ const CardComponent = () => {
     
     
     },
-    { imageSrc: 'https://media.licdn.com/dms/image/D4D03AQFlJfYNxBoCtg/profile-displayphoto-shrink_400_400/0/1682922226558?e=1720656000&v=beta&t=0APwFzTVfQDiZB2gAAXjtOmnbhHQPdg-oHe4Bs_ZbDw',
+    { imageSrc: 'https://s3.amazonaws.com/37assets/svn/765-default-avatar.png',
      subtitle: 'Tier-3 College to 28 LPA SDE Offer OFF Campus',
       content: 'On 12th October Student cracked 18 LPA SDE Offer at Barclays! ',
       student:'Saniya Inamdar',
@@ -531,7 +531,7 @@ const CardComponent = () => {
     
     
     },
-    { imageSrc: 'https://dummyimage.com/720x400',
+    { imageSrc: 'https://s3.amazonaws.com/37assets/svn/765-default-avatar.png',
       content: 'On August 15 ; today, a student cracked an offer(19 LPA.) from Oracle!',
       student:'Ayush Kumar      ',
       companyLogo:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwzGrJVTLOQpQrrUCvfuKBGW57xddOpAkUJCalDZkiwQ&s'
@@ -545,7 +545,7 @@ const CardComponent = () => {
       companyLogo:'https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_200_200/0/1688482473854/cisco_logo?e=1723075200&v=beta&t=5awpsoBa3jtQMIy6gu4_r02tTUWOXpmqGyKatbYGXX4'
     
     },
-{ imageSrc: 'https://media.licdn.com/dms/image/C5603AQHLFX1pIRQnTA/profile-displayphoto-shrink_400_400/0/1651824112976?e=1720656000&v=beta&t=EZTayCe8pxCsPunxMG3HuImwUMjAaogfWwVMzhScB6g',
+    { imageSrc: 'https://media.licdn.com/dms/image/C5603AQHLFX1pIRQnTA/profile-displayphoto-shrink_400_400/0/1651824112976?e=1720656000&v=beta&t=EZTayCe8pxCsPunxMG3HuImwUMjAaogfWwVMzhScB6g',
      subtitle: 'Tier-3 to OffCampus remote from Germany', 
       content: 'Student cracks 13 LPA offer off campus in recession and switches from Service Based Company to Top PBC',
       student:'Mrinal Mohan.',
@@ -587,7 +587,8 @@ const CardComponent = () => {
           {cards.slice(0, cardsToShow).map((card, index) => (
             <div key={index} className="xl:w-1/4 md:w-1/2 p-4">
               <div className=" bg-white rounded-lg p-6 shadow-lg hover:shadow-lg transition duration-400">
-              <img className="h-40 rounded w-full object-cover object-center mb-6" src={card.imageSrc} alt="content" />
+              <img className="h-50 rounded w-full object-cover object-center mb-6" src={card.imageSrc}
+               alt="content" />
                 <h2 className="text-lg text-gray-900   font-sans font-medium  mb-4">{card.content}</h2>
                 <div className="flex items-center justify-between">
                   <p className="leading-relaxed text-base font-bold text-black">{card.student}</p>

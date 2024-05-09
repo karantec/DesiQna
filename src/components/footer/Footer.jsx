@@ -1,4 +1,4 @@
-import { ChevronRight, Facebook, Linkedin, Instagram, Youtube } from 'lucide-react';
+import { ChevronRight, Facebook, Linkedin, Instagram, Youtube,  } from 'lucide-react';
 
 export function Footer() {
   return (
@@ -20,10 +20,10 @@ export function Footer() {
           </div>
           <div className="flex items-center mt-4 md:mt-0 space-x-4">
             {/* Social media icons */}
-            <Facebook size={24} color="#3b5998" />
-            <Linkedin size={24} color="#0077b5" />
-            <Instagram size={24} color="#e4405f" />
-            <Youtube size={24} color="#ff0000" />
+            <a href  ="https://www.Facebook.com/company/desiqna/"> <Facebook size={24} color="#3b5998" /></a>
+            <a href ="https://www.linkedin.com/company/desiqna/"><Linkedin size={24} color="#0077b5" /></a>
+            <a href ="https://www.instagram.com/desiqna_official/"><Instagram size={24} color="#e4405f" /></a>
+            <a href="https://youtu.be/0S7WMSpR36o?si=JcdnYirmqJBJbigg"><Youtube size={24} color="#ff0000" /></a>
           </div>
           <div>
             <p className="text-sm font-medium text-gray-500">© 2023 DesiQna. All rights reserved.</p>
