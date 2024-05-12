@@ -5,7 +5,7 @@ import "./Page.css"
 import "animate.css"
 
 function RecPage() {
-  const [selectedUser, setSelectedUser] = useState(data.user1);
+  const [selectedUser, setSelectedUser] = useState(data.user0);
   const [activeIndex, setActiveIndex] = useState(null);
   const [animate, setAnimate] = useState(null);
 
