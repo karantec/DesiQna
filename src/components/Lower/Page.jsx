@@ -15,7 +15,7 @@ function Lower() {
             </div>
             <div className="mt-[60rem] sm:mt-[40rem] lg:mt-[26rem] flex flex-col items-center justify-center mb-[10rem] bg-gradient-to-r to-red-50 from-yellow-100">
               <div className="">
-                <h1 className="text-md mt-24 lg:text-3xl text-slate-500 font-bold text-center  md:text-center">
+                <h1 className="text-md mt-34 pt-[10rem] lg:text-3xl text-slate-500 font-bold text-center  md:text-center">
                   Why Join Our Personalized 1-1
                   <br />{" "}
                   <span className="text-black">
