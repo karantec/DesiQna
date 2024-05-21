@@ -5,11 +5,11 @@ const CardComponent = () => {
   const data = [
    
    
-    { imageSrc: 'https://media.licdn.com/dms/image/D4D03AQFlJfYNxBoCtg/profile-displayphoto-shrink_400_400/0/1682922226558?e=1720656000&v=beta&t=0APwFzTVfQDiZB2gAAXjtOmnbhHQPdg-oHe4Bs_ZbDw',
-    subtitle: 'SDE Offer OFF Campus Microsoft', 
-     content: 'Kumar K  Student Rashi Bhave - Cracked 48LPA Microsoft Off Campus Offer  as a fresher in recession. This was possible because we personally guided her before each interview round. Trained her hard for FAANG level OA + Interview.😍😍😇😇      ',
-     student:'Rashi Bhave',
-     companyLogo:'https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_200_200/0/1630652622688/microsoft_logo?e=1723075200&v=beta&t=I0JQNx_M0gTi9QZpSEEb2fVrBL5geHnJ4xPJU-IPNpY'
+    { imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716281829/ukvfka7yaf5bu5zgo105.jpg',
+    subtitle: 'SDE Offer OFF Campus Flipkart', 
+     content: 'Kumar K student from tier-3 college cracks off-campus engineering offer from Flipkart after 10 months of high level DSA + OA + CP training and 1-1 Mentorship',
+     student:'Sheenam Gupta',
+     companyLogo:'https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/flipkart-512.png'
    
    
    
@@ -44,6 +44,16 @@ const CardComponent = () => {
       companyLogo:'https://media.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_200_200/0/1630640869849/amazon_logo?e=1723075200&v=beta&t=gxDvgk7WP-bzZOlZPG08BRESK7ErSJ1yLTjp0S6VOaI'
     
     },
+
+    { imageSrc: 'https://media.licdn.com/dms/image/D4D03AQFlJfYNxBoCtg/profile-displayphoto-shrink_400_400/0/1682922226558?e=1720656000&v=beta&t=0APwFzTVfQDiZB2gAAXjtOmnbhHQPdg-oHe4Bs_ZbDw',
+    subtitle: 'SDE Offer OFF Campus Microsoft', 
+     content: 'Kumar K  Student Rashi Bhave - Cracked 48LPA Microsoft Off Campus Offer  as a fresher in recession. This was possible because we personally guided her before each interview round. Trained her hard for FAANG level OA + Interview.😍😍😇😇      ',
+     student:'Rashi Bhave',
+     companyLogo:'https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_200_200/0/1630652622688/microsoft_logo?e=1723075200&v=beta&t=I0JQNx_M0gTi9QZpSEEb2fVrBL5geHnJ4xPJU-IPNpY'
+   
+   
+   
+   },
     { 
       imageSrc: 'https://media.licdn.com/dms/image/D5603AQEcqK_KSatWMA/profile-displayphoto-shrink_400_400/0/1699625818095?e=1721260800&v=beta&t=Mhzx5yq4uUC_Q_RS3bp5Sw_1HcCzPgfLbVqTL5AM-xA',
       content: ' Kumar K Student cracks  SDE-2 offer  at BNY Mellon after working for 1.5 years in a service based company',
@@ -83,7 +93,8 @@ const CardComponent = () => {
   { 
     imageSrc: 'https://media.licdn.com/dms/image/D4D03AQEP2u_SUeYuGw/profile-displayphoto-shrink_400_400/0/1688558564202?e=1721260800&v=beta&t=gJn9qOKKBWzVC5y3nRin5rJGWlyPc7LpszSNEy-Visk',
     content: 'Kumar K student with no job offer as 2023 CS Grad(was really worried) ends up cracking 4 offcampus offers of 12+LPA with maximum being 16LPA  because of 1-1 Mentoring + Off Campus Job Referral Support',      
-    student:' Karrman'
+    student:' Karrman',
+    companyLogo:'https://upload.wikimedia.org/wikipedia/commons/e/e5/ANSYS_logo.png'
   
   
   },
@@ -94,6 +105,53 @@ const CardComponent = () => {
       content: 'Kumar K Student cracks Off Campus SDE Offers from PhonePe and Precisely after 8 months of FAANG level DSA(OA + Interview) Training with us!',
       student:'Sharmistha Chakraborty',
       companyLogo:'https://i.pinimg.com/736x/2a/cf/b6/2acfb6fb41f7fcb82c3230afdecff714.jpg'
+    
+    
+    
+    },
+    { 
+     
+      imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716283234/qzszcji77ms2wxtrqa2k.jpg',
+     subtitle: 'Service Based to Product Based',
+      content: 'Kumar K student cracks NVIDIA and Qualcomm after 8 months of daily live DSA + OA + CP Training and 1-1 Mentorship',
+      student:' Anwesha Kar ',
+      companyLogo:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDFDaTMtM3sUbibnUIq3Glz2Vpp2qzyknrDg7fOtIWpw&s'
+    
+    
+    
+    },
+
+    { 
+     
+      imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716282803/nd3qaux9rkyrwwugg3hy.jpg',
+     subtitle: 'Service Based to Product Based',
+      content: 'Kumar K 2023 Grad student with 10 months of gap after graduation cracks 11LPA SDE Offer Offcampus from IBM ',
+      student:'Salman Uddin.',
+      companyLogo:'https://mma.prnewswire.com/media/1425093/IBM_LOGO.jpg?p=facebook'
+    
+    
+    
+    },
+
+    { 
+     
+      imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716283488/el1uv9enjfjls6q8wdxj.jpg',
+     subtitle: 'Service Based to Product Based',
+      content: 'Kumar K 2023 Grad student with 10 months of gap after graduation cracks 11LPA SDE Offer Offcampus from Pursuit ',
+      student:'Suvankar Mahato',
+      companyLogo:'https://www.pursuitsoftware.com/wp-content/uploads/2022/04/PursuitSoftwareLogo.png'
+    
+    
+    
+    },
+
+    { 
+     
+      imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716283623/povroydknyqtp4hlwz48.jpg',
+     subtitle: 'Service Based to Product Based',
+      content: 'Kumar K 2023 Grad student with 10 months of gap after graduation cracks 11LPA SDE Offer Offcampus from Pursuit ',
+      student:'Sudipto Paul',
+      companyLogo:'https://www.pursuitsoftware.com/wp-content/uploads/2022/04/PursuitSoftwareLogo.png'
     
     
     
@@ -124,7 +182,7 @@ const CardComponent = () => {
     
     },
     { 
-     imageSrc: 'https://media.licdn.com/dms/image/D5635AQGPUqMjSHT2Lw/profile-framedphoto-shrink_400_400/0/1679582608781?e=1716148800&v=beta&t=4cWyVkvpI5T9oF-hLsrQYNOeKos6CuuuO3s2gqpgFaI',
+     imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716280262/vvegkryrdii7xzyvngsg.jpg',
      subtitle: 'Tier-3 College to 25LPA SDE offer off Campus from Cisco', 
       content: ' Kumar K student from  tier-3 college cracks 25 LPA Cisco Job offer  after 8 months of training for FAANG       ',
       student:'Aryennh Kulkarni',
@@ -261,7 +319,7 @@ const CardComponent = () => {
     
     },
    
-    { imageSrc: 'https://media.licdn.com/dms/image/D5635AQHjX0Ta7RNqGQ/profile-framedphoto-shrink_400_400/0/1707403013834?e=1716145200&v=beta&t=hZNINbLWodbmo27TEmYAOKtoFMZyZyaZ6Yocke2Grag',
+    { imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716280397/xpteua4zxnhuofj7zqa6.jpg',
      subtitle: 'Service Based to Product Based',
       content: ' Kumar K Student Jagadeesh cracks 18 LPA offcampus SDE offer after getting laid off from Infosys service based company',
       student:'Jagadeesh',
@@ -270,7 +328,7 @@ const CardComponent = () => {
     
     
     },
-    { imageSrc: 'https://media.licdn.com/dms/image/D4D35AQGahUK0xZ58wA/profile-framedphoto-shrink_400_400/0/1686406159450?e=1716145200&v=beta&t=jIlg25sptLcOGonD9GzCWG5GIy9qdXpLfXRYsxmOt-o',
+    { imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716280495/xxtni2zqvhosyuweajlw.jpg',
      subtitle: 'Service Based to Product Based',
       content: ' Kumar K Student working in service based company cracks 11 lpa; product based company ',
       student:'Shivam Kedia',
@@ -299,13 +357,14 @@ const CardComponent = () => {
     
     },
     { imageSrc: 'https://media.licdn.com/dms/image/C4E03AQGrZXCIUEf9Qw/profile-displayphoto-shrink_400_400/0/1604503189883?e=1720656000&v=beta&t=JXWRr48m3sWE4jDVXKMV7S2ZUxFjdWA65ArnrC2oEAo',
-     subtitle: 'SUBTITLE 1', title: 'Card Title 1',
+     subtitle: 'SUBTITLE 1',
+      title: 'Card Title 1',
       content: 'Kumar K Student who was constantly failing for 8 months cracks 15 LPA; SDE offer from Fiserv',
       student:'Dhruv Pandey ',
       companyLogo:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSloHS51wFKaN9GYkVZw1JDqV4ZzPCeyZl8TvBukHpINQ&s'
     
     },
-{ imageSrc: 'https://media.licdn.com/dms/image/D4D35AQGsbl3NQeZfsA/profile-framedphoto-shrink_400_400/0/1700460070643?e=1716145200&v=beta&t=83XxxEL4GzsrLTFkpSy75nYM2uZSsTKpeYlwMTQieWE',
+{ imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716280759/gtudyiwnw44objxmm49q.jpg',
      subtitle: 'Tier-3 to OffCampus remote from Germany', 
       content: ' Kumar K Student cracks Offcampus remote offer from Germany despite being from tier-3 college.',
       student:'Nandhu Aripelli',
@@ -344,7 +403,7 @@ const CardComponent = () => {
      
       imageSrc: 'https://media.licdn.com/dms/image/D4D03AQHwI1X0z6vKlw/profile-displayphoto-shrink_400_400/0/1693673158066?e=1720656000&v=beta&t=RSBwl4k2LhfD265ImvyJfzIJmPEyxUQuunC4lZeniPw',
      subtitle: 'Service Based to Product Based',
-      content: 'Kumar K Student who god laid off from 3LPA job cracks 38 LPA senior engineer offer off campus at BT Group',
+      content: 'Kumar K Student who god laid off from 3LPA job cracks senior software engineer offer off campus at BT Group',
       student:'Priyanshi Srivastava',
       companyLogo:'https://media.licdn.com/dms/image/D4E0BAQFcyvjY35EvXA/company-logo_200_200/0/1663653523168/bt_logo?e=1723075200&v=beta&t=KWHrmpOrNb1WA4dlT0VmWL8Jl3dwdGqPyFfo7u2orN4'
     
@@ -397,7 +456,7 @@ const CardComponent = () => {
     
     },
    
-    { imageSrc: 'https://media.licdn.com/dms/image/D4D35AQFZ1-M24VhBuQ/profile-framedphoto-shrink_400_400/0/1699421510619?e=1716145200&v=beta&t=fmC96n4tEihNytC71MU2eQeIqOeUPTMQdfpOLBitgtU',
+    { imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716281143/y0hurndlnkloaponxvgv.jpg',
      subtitle: '2023 Grad with Gap to Off campus SDE offer at Societe Generale',
       content: ' Kumar K Student who used to fail interviews and online test cracks 18 lpa remote international SDE offer from US based company Avaya      .',
       student:'Sarthak Jatale',
@@ -438,9 +497,9 @@ const CardComponent = () => {
     { 
      
 
-     imageSrc: 'https://media.licdn.com/dms/image/D4D35AQE3NYsLCjN-bQ/profile-framedphoto-shrink_400_400/0/1693494320735?e=1716145200&v=beta&t=BhvNMrOwxZt9RAvHwkGX419T9OMMvRNy6fpmPsKcxVs',
+     imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716281033/f9ealics9nfe9dlz2shp.jpg',
      subtitle: 'Tier-3 College to 25LPA SDE offer off Campus from Cisco', 
-      content: ' Kumar K 2024 Grad student cracks 12 LPA SDE Role in top tech startup       ',
+      content: ' Kumar K 2024 Grad student cracks 12 LPA SDE Role in top tech startup',
       student:'Ayushi Sood',
       companyLogo:'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYUAAACBCAMAAAAYG1bYAAAAe1BMVEUICAj///8AAADh4eG0tLTMzMzHx8dubm6YmJjz8/MFBQVLS0uKioopKSnc3NzS0tLAwMDq6uqDg4Onp6dYWFhERERzc3P5+fmfn585OTnn5+e5ublWVlaQkJB5eXkdHR1nZ2etra09PT0vLy9hYWF+fn4aGhoTExMkJCRWBlyTAAAGD0lEQVR4nO2b6WKiMBSF7RU30GpdEMXd2vH9n3CUe7NUSIRRpp3O+X6F3CWBU7NBGw0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACoAAkFVZTzoVwpH6MKodPHKoVOH2MxCV3dcTdFRY26u0NOn6KEz4M2aXBlYrLSkavSg9RRwtcnGohlRjsu7ZXLViyRsVA3KwRj5TMVH23pU0OqVspnzZY1NbgQvKuwQGQIiS/Td1qJ5YP6XOqqNJFYtjTmQkIqbKd8ToHcOe2V5SDdGSifCV/HtBDLgk65B/YEFfYvGT1LhRlXvUxVX5Z8ndJBLO/U5cJcuQzEsqO1lIiaXBgpn7G2vHKhTQ2p2iifIV+3tGVthYkK2rKR0pbaXGiqNLFYBjRSFhWmlQr4+s2yTKW0UE31+HpCkVgiE/ZMFSYqqfnB51SQxxnQQlvuqjDXz7pAheGtCrFThT6dHCr0LRXkWb+qNB2tQqosRrycCvN7KiR5FZZQASpABajws1XolVAh1SqUmJ29KuRmZ58Krtm5nAq52flPVKh9du4um1eG1hrpwFVvkepvO6tYJnRky3JFYy7p2z5LzJROykIjDlNrOorFhyhly2WdKwn18lEsATWabNlQR3z0SvXW0tzSnsO04O8Sc6YJW9qkwvTCOWGf1uWPQlmiN+7hUf9RsGVNM+n7zIQ9UYVvu2srSvhIdzxNff2uLX+PPhXupynjU6apsCgBk3ucBT2s0h2Pi6ejT4WSee9K0xqRZlw11xvaIV/v3V2ggcS8e3xO7PNiNdWQsI4e/Ph65E5zGazZZ2zlSbM8czWu0k7yDjzdmbDPa5kHS5EkjGqRwczOpsq9RnKnMbOz20dPs6bKMzu7sGZnk8c9O7u7U2WatWbnEt6V8a1UV1BBO38nFZyjo6WCcwCtpkLR6J8BFc6T5MrkcNsXS4Up+3RzE2zF30LCrG6bqkGF+zPvX1PBVLlVMGeqt2mMCl31rB9UQSzr+lWg1vDK68njXLMKe85e7mR7cWMxMUqFjtk7V1HBfbLdd6pg6eM82T6WUkGcu1+nwq6bYd/SIMmqkoU+emCfjkeFD4k5eFSIxMcEhw2pmqmmTtzUxqcCu9hjFcVcp/fFM87b/fA82A779K0TDLfzUTrqkfURPFug/B7IqOB0catQae/sVqHwXegju7awhAp179pmnQxrhRlu46wqzg2qlgo3YeEviTl6fgsL8SGacnRu5m0oy9SjArFLfKAFlzq/aMUFNV/RMRaLew9OkbqFMr+Fs/T9XPO84D5TNc5mdk4+j/Gl5oW+ilFnqvldgbIMS80L6szb98bTfeepuvMyKnz9StU4L3pvV3orz8n2mH2WntnZer9w62Nm5yU3lVu4VDzZdt/5d5qdq6hgjf5uFcxgfRtcSQXnQFyDCunoSjv+R1QwYW4V3DHVfgsunq/Cd9q1/ccq3Acq3PAjVdhzdt/euShMn1PIdRkVqq2RXBSskc6P7Z2dLpZzvSqEBZOp8zjTE1aUxxVDbucSaSwfd8ISm6wyTRnq3bU96+1rkcWZRj2B0Pcy2ImJCcN7TT36tXDuMdW0dx632ldSoiArtMa04KqWPtzZ8/WajmKJKOaS/uhhK5YVdZRFwtr605Od+NjnSFKlDw4nHJP4RiR2aXWMD3U5j/54ecXX7TOt22JRYfr4ts8+AdGILRuaSXdyAxkdxJI7038K5o0nvXFpX//XwqZ1z5mqC9/JdpmvhQu+RxJL7nsk6zH9rTWSetYFKjz72zzTev1vPB/5Ns96TFDhM1ABKkAF5keqsOfs5WbnCl8LV5udn6RCM6/CI//LYz2mmlUYD1tXLgvLNCsM+7TgqqFeqQZ8fVmpiiWiDZfUGQRtxbKiWFloz1X6tnfiY69UpUq/nplk1y3vSpVdhp9WqpxHr1SnkvesLJf1qIRpwddsuazR22y5rFQlrGClKpZ6Vqr17dp8Xwtr/mTX5ntJ6+7Ot961AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfj6/AZ7/jgpzfbaeAAAAAElFTkSuQmCC'
     
@@ -504,7 +563,7 @@ const CardComponent = () => {
     
     },
    
-    { imageSrc: 'https://media.licdn.com/dms/image/D5635AQFuHkhUzF6uzg/profile-framedphoto-shrink_400_400/0/1704541561420?e=1716148800&v=beta&t=ErW3q0xkHEqKuGDaY2MNlFn1nI3Vij7uQ4cOoAS85zg',
+    { imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716281337/ypgudwyqla0bd7c3foaf.jpg',
      subtitle: 'Tier-3 College to Microsoft', 
 	    content: 'Kumar K Student working at service based company cracks 22 LPA off campus job offer at top tech startup ',
       student:'Diwakar Singh',
@@ -545,7 +604,7 @@ const CardComponent = () => {
     },
     
     
-    { imageSrc: 'https://media.licdn.com/dms/image/D4D35AQFKkf9cN-O9Og/profile-framedphoto-shrink_400_400/0/1704797518105?e=1716148800&v=beta&t=7C9ubTg83IGa79rtsBElu2nXH1hkbB3d_DPoEoSAU_M',
+    { imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716281471/wesxdpe1qwvb6ecc3i3c.jpg',
      subtitle: 'Tier -3 to Cisco OFF campus',
       content: 'On August 21 ; student cracked (19 LPA) Deutsche Bank job offer after training super hard for DSA + OA + CS Fundamentals!',
       student:'Jyoti',
@@ -586,7 +645,7 @@ const CardComponent = () => {
 
     
     { 
-      imageSrc: 'https://media.licdn.com/dms/image/D5635AQGmZKEI3XUHYg/profile-framedphoto-shrink_400_400/0/1682653967429?e=1716152400&v=beta&t=_Ze_9xvHUX0qNxELlMY_NSaqlYUKagcqgnoFrANSPRw',
+      imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716281402/jnq5jfniarzuukqvfxsq.jpg',
       content: ' Kumar K Student working at service based company TCS 3LPA cracks 14LPA  in CDOT  ',
       student:'Ankit Sharma',
      
@@ -602,6 +661,16 @@ const CardComponent = () => {
     
     },
     
+
+    { 
+      imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716282182/r2rlbm24pqagbuz6euzd.jpg',
+      content: ' Kumar K student Cracks Flipkart SDE Offer after training with us for 8 months!. ',
+      student:'Hritik Bhardwaj',
+     companyLogo:'https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/flipkart-512.png'
+
+    
+    },
+    
     
     
 
@@ -610,7 +679,7 @@ const CardComponent = () => {
    
   ];
 
-  const [cardsToShow, setCardsToShow] = useState(60);
+  const [cardsToShow, setCardsToShow] = useState(100);
   const [cards, setCards] = useState(data);
 
   const handleViewMore = () => {

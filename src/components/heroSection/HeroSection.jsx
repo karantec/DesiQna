@@ -37,6 +37,9 @@ function HeroSection() {
                   {data.ul3}
                 </li>
                 <li className="mb-6  md:items-start  leading-normal  text-md text-gray-900 font-sans font-bold">
+                  {data.ul5}
+                </li>
+                <li className="mb-6  md:items-start  leading-normal  text-md text-gray-900 font-sans font-bold">
                   {data.ul4}
                 </li>
               </ol>

@@ -1,7 +1,7 @@
 export const data={
     user1:{
         id: 1,
-         p:"Tier-3 College to World Rank-50",
+         p:"Coding beginner to World Rank 50/25000 in leetcode dsa contest",
          h1:"Student gets World Rank 50/25000 in LeetCode DSA Contest",
          student:"Vinit Tekwani ",
         company:"https://www.linkedin.com/feed/update/urn:li:activity:7164647759717752832/",
