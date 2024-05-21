@@ -44,7 +44,7 @@ export const data={
         h1:" Student cracks Microsoft Off Campus offer  after 8 month FAANG level OA + Interview + CP training",
         company:"Microsoft",
         student:"Sejal Aggarwal.",
-        img:'https://media.licdn.com/dms/image/D5603AQHNoXF95qw5ZA/profile-displayphoto-shrink_400_400/0/1711283069934?e=1719446400&v=beta&t=UM-lbOi2FMUa2aVk4AZPzPZhFo6vn-aNf6mHauRzauE'
+        img:'https://res.cloudinary.com/dlxds69s7/image/upload/v1714758482/1711283069934_fdf7315a95.jpg'
 
     },
     user5:{
@@ -61,7 +61,7 @@ export const data={
         h1:" Cracks Microsoft SDE Offer Off Campus  after training with us for 8 months! ",
         student:"Vineeta Katlamudi",
         company:"Microsoft",
-        img:'https://media.licdn.com/dms/image/D5635AQGFyOMS5dceVw/profile-framedphoto-shrink_400_400/0/1709047104228?e=1715007600&v=beta&t=xTVZERdVLZvud9S9F8h4Jt24YsQ0CFJRIstmn-d9Mnc'
+        img:'https://res.cloudinary.com/dlxds69s7/image/upload/v1714758482/1709047104228_24c4ba2efc.jpg'
     },
    
     // user8:{
@@ -78,7 +78,7 @@ export const data={
         h1:"Student with 2023 year of graduation cracks off campus SDE offer at Societe Generale; Top PBC despite having a gap of 8+ months. ",
         student:"Abhishek Mishra",
         company:"Societe Generale",
-        img:'https://media.licdn.com/dms/image/D5603AQHKcL3j54euhg/profile-displayphoto-shrink_400_400/0/1671459711386?e=1718841600&v=beta&t=_m7dWfDewP3yqyhChiI9Scqil9RDJnkQLcfXuJn1i2w'
+        img:'https://res.cloudinary.com/dlxds69s7/image/upload/v1714758477/1671459711386_415b4b690d.jpg'
 
     },
     user10:{
