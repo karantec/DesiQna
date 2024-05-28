@@ -17,7 +17,7 @@ export const data={
         h1:"Pranav cracks off campus SDE Intern + Fulltime offer from Linkedin(40 LPA CTC) after 8 months of FAANG level DSA(OA + Interview) Training with us!",
         student:"Pranav Kulkarni",
         company:"Linkedin",
-        img:'https://media.licdn.com/dms/image/D5603AQEEmONMfPojPA/profile-displayphoto-shrink_400_400/0/1712824265014?e=1719446400&v=beta&t=s4I8aIL1dnu3sX6QItrNhIF_kOEqGsdkOxQgZjqrv6g'
+        img:'pranav.jpg'
 
     },
     user2:{

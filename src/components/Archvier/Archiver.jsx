@@ -17,7 +17,7 @@ const CardComponent = () => {
   
     {
       
-      imageSrc: 'https://media.licdn.com/dms/image/D5603AQEEmONMfPojPA/profile-displayphoto-shrink_400_400/0/1712824265014?e=1720656000&v=beta&t=Bb089GshYLe7XGwTgJipI5oeiHa7Z8hfCGQ5An8Zy8U',
+      imageSrc: 'pranav.jpg',
        subtitle: 'Tier-4 College to 40+ LPA',
       content: 'Kumar K Student  cracks off campus SDE Intern + Fulltime offer from Linkedin(40 LPA CTC) after 8 months of FAANG level DSA(OA + Interview) Training with us!',
       student:'Pranav Kulkarni',
