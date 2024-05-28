@@ -6,17 +6,36 @@ export const data={
         h1:"Mentoring Student cracks off-campus offer from Nutanix USA after 8 months of advanced DSA(OA + CP) training",
         company: "https://www.logo.wine/a/logo/Nutanix/Nutanix-Logo.wine.svg",
         student:"Yash Singhania",
-        img:'https://media.licdn.com/dms/image/D4D03AQECAOh8C6dUpw/profile-displayphoto-shrink_400_400/0/1696362279134?e=1721260800&v=beta&t=X3TFMgwyhxDj_REiAJ5Mk8e7NwhZpou8tIldgu02qsI'
+        img:'yash.jpg'
         
     },
     user1:{
         id: 1,
+        p:" Tier-3 College to  SDE-2 Google!",
+        h1:"Mentoring Student cracks off-campus SDE-2 offer from Google!",
+        company: "https://iconape.com/wp-content/files/ur/370111/svg/google-logo-icon-png-svg.png",
+        student:"Akash ",
+        img:'akash.jpg'
+        
+    },
+    user2:{
+        id: 2,
         p:"Tier-3 College to Google and Atlassian Offcampus",
         h1:"Mentoring Student cracks off-campus offers from Google and Atlassian after 8 months of advanced DSA(OA + CP) training",
         company: "https://iconape.com/wp-content/files/ur/370111/svg/google-logo-icon-png-svg.png",
         student:"Anusha Yerram",
-        img:'https://media.licdn.com/dms/image/D4D03AQF-p3T34OuXUQ/profile-displayphoto-shrink_400_400/0/1709905148028?e=1720051200&v=beta&t=EQmtOxQXITjDjH9Gpp_ikJGuWxTo-XjaaiSj6eafI8I'
+        img:'anusha.jpg'
+        
+    },
+    user3:{
+        id: 3,
+        p:"Tier-3 College to SDE Offer from Zomato(Blinkit)",   
+        h1:"Kumar K Student cracks SDE offer from Zomato(Blinkit) after 8 months of advanced DSA(OA + CP) training despite having  failures in past",
+        company: "zomato.jpg",
+        student:"Aadit Bhargava",
+        img:'31.jpg'
         
     }
+
     
 }
