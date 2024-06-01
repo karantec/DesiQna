@@ -14,7 +14,7 @@ export const data={
         h1:"Student gets World Rank 92/25000 in CodeChef DSA Contest",
         student:"Karan Rana",
         company:"https://www.linkedin.com/posts/karanrana30_excited-to-share-my-experience-in-codechefs-activity-7171510745266806784-TczP?utm_source=share&utm_medium=member_desktop",
-        img:'https://media.licdn.com/dms/image/D4D35AQHV9rTaTj0UdA/profile-framedphoto-shrink_200_200/0/1707849953346?e=1716919200&v=beta&t=jMBW50Cwa-JFbU1QzdKvp-6GzR5t40urbK3SaqqfGfQ'
+        img:'33.jpg'
 
     },
     user3:{
