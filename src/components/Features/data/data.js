@@ -59,7 +59,7 @@ export const data={
         id: 6,
         p:"SDE Offer OFF Campus Microsoft",
         h1:" Cracks Microsoft SDE Offer Off Campus  after training with us for 8 months! ",
-        student:"Vineeta Katlamudi",
+        student:"Vinita Katlamudi",
         company:"Microsoft",
         img:'20.jpg'
     },
