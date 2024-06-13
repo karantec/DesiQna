@@ -6,7 +6,7 @@ export const data={
         p:"Tier-4 College to get 2300+ rating on LeetCode",
         h1:"Kumar K Student become guardian on Leetcode and  Expert on CodeForces + gets 2300+ rating on LeetCode after 8 months of DSA/OA Training",
         student:"Riya Das",
-        company:"https://www.linkedin.com/posts/aniket-agarwal-226a551b1_coding-codechef-consistency-activity-7024638385398947840-cu7g/?utm_source=share&utm_medium=member_desktop",
+        company:"https://www.linkedin.com/posts/kumark1_making-the-best-possible-content-on-hard-activity-7050678992529502208-XuKW/?utm_source=share&utm_medium=member_desktop",
         img:'riya.png'
     },
     user1:{
