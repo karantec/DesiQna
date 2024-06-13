@@ -1,4 +1,14 @@
 export const data={
+
+
+    user0:{
+        id: 0,
+        p:"Tier-4 College to get 2300+ rating on LeetCode",
+        h1:"Kumar K Student become guardian on Leetcode and  Expert on CodeForces + gets 2300+ rating on LeetCode after 8 months of DSA/OA Training",
+        student:"Riya Das",
+        company:"https://www.linkedin.com/posts/aniket-agarwal-226a551b1_coding-codechef-consistency-activity-7024638385398947840-cu7g/?utm_source=share&utm_medium=member_desktop",
+        img:'riya.png'
+    },
     user1:{
         id: 1,
          p:"Coding beginner to World Rank 50/25000 in leetcode dsa contest",
@@ -78,6 +88,14 @@ export const data={
         company:"https://www.linkedin.com/posts/aniket-agarwal-226a551b1_coding-codechef-consistency-activity-7024638385398947840-cu7g/?utm_source=share&utm_medium=member_desktop",
         img:'https://media.licdn.com/dms/image/D5603AQF8ive-p0a7tA/profile-displayphoto-shrink_400_400/0/1714193561603?e=1720051200&v=beta&t=T5uCMr8Ki4qmwtRn1k6gkgibRJgPy8duis6MOv6CqBI'
     },
+    // user10:{
+    //     id: 9,
+    //     p:"Tier-4 College to get 2300+ rating on LeetCode",
+    //     h1:"Kumar K Student become guardian on Leetcode and  Expert on CodeForces + gets 2300+ rating on LeetCode after 8 months of DSA/OA Training",
+    //     student:"Riya Das",
+    //     company:"https://www.linkedin.com/posts/aniket-agarwal-226a551b1_coding-codechef-consistency-activity-7024638385398947840-cu7g/?utm_source=share&utm_medium=member_desktop",
+    //     img:'riya.png'
+    // },
    
     // user8:{
     //     id: 7,

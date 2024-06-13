@@ -258,7 +258,7 @@ const CardComponent = () => {
     
     
     },
-    { imageSrc: 'https://res.cloudinary.com/dlxds69s7/image/upload/v1714758482/1709047104228_24c4ba2efc.jpg',
+    { imageSrc: '20.jpg',
      subtitle: 'SDE Offer OFF Campus Microsoft', 
       content: ' Kumar K student Cracks Microsoft SDE Offer Off Campus after training with us for 8 months!',
       student:'Vinita Katlamudi',

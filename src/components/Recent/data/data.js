@@ -35,6 +35,15 @@ export const data={
         student:"Aadit Bhargava",
         img:'31.jpg'
         
+    },
+    user4:{
+        id: 4,
+        p:"Tier-3 College to SDE Offer from Zomato(Blinkit)",   
+        h1:"Kumar K Student cracks SDE offer from Zomato(Blinkit) after 8 months of advanced DSA(OA + CP) training despite having  failures in past",
+        company: "zomato.jpg",
+        student:"Aryan",
+        img:'aryan.png'
+        
     }
 
     

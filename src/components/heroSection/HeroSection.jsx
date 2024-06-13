@@ -60,7 +60,7 @@ function HeroSection() {
                 </a>
                 <a
                   aria-label="course"
-                  href="https://drive.google.com/file/d/1Jjs4GyrOqbLxZgFz1VhWXMP9xH3zAt4G/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1FG_ovSM5tvQ1lJBLSTgQB-pLW7NPlo_E/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
