@@ -15,7 +15,7 @@ export const data={
          h1:"Student gets World Rank 50/25000 in LeetCode DSA Contest",
          student:"Vinit Tekwani ",
         company:"https://www.linkedin.com/feed/update/urn:li:activity:7164647759717752832/",
-        img:'https://media.licdn.com/dms/image/D4D03AQHOApMWWJHhMw/profile-displayphoto-shrink_400_400/0/1673364727709?e=1718841600&v=beta&t=aAYB1agZt6WqbCpc2Agm_PVYm-3jbHoLQsNiTglh9V8'
+        img:'vinit.jpg'
 
     },
     user2:{
