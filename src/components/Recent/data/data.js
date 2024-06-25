@@ -20,6 +20,15 @@ export const data={
     },
     user2:{
         id: 2,
+        p:" Cracks 80LPA International Remote SDE Role  From Europe.",
+        h1:"Mentoring Student cracks Remote Job offer from 10up after 8 months of advanced DSA(OA + CP + System Design) training",
+        company: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7g1EvVfSLmF7nGZ8uMMSWiQevoVh2eU7G7A&s",
+        student:"Ritobroto Mukherjee  ",
+        img:'rutu.jpg'
+        
+    },
+    user3:{
+        id:3,
         p:"Tier-3 College to Google and Atlassian Offcampus",
         h1:"Mentoring Student cracks off-campus offers from Google and Atlassian after 8 months of advanced DSA(OA + CP) training",
         company: "https://iconape.com/wp-content/files/ur/370111/svg/google-logo-icon-png-svg.png",
@@ -27,8 +36,8 @@ export const data={
         img:'anusha.jpg'
         
     },
-    user3:{
-        id: 3,
+    user4:{
+        id: 4,
         p:"Tier-3 College to SDE Offer from Zomato(Blinkit)",   
         h1:"Kumar K Student cracks SDE offer from Zomato(Blinkit) after 8 months of advanced DSA(OA + CP) training despite having  failures in past",
         company: "zomato.jpg",
@@ -36,8 +45,8 @@ export const data={
         img:'31.jpg'
         
     },
-    user4:{
-        id: 4,
+    user5:{
+        id: 5,
         p:"Tier-3 College to SDE Offer from Zomato(Blinkit)",   
         h1:"Kumar K Student cracks SDE offer from Zomato(Blinkit) after 8 months of advanced DSA(OA + CP) training despite having  failures in past",
         company: "zomato.jpg",

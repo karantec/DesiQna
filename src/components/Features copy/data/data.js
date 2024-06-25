@@ -9,6 +9,14 @@ export const data={
         company:"https://www.linkedin.com/posts/kumark1_making-the-best-possible-content-on-hard-activity-7050678992529502208-XuKW/?utm_source=share&utm_medium=member_desktop",
         img:'riya.png'
     },
+    ser0:{
+        id: 0,
+        p:"Kumar K student gets  2400+ rating on LeetCode and Expert  rating on CodeForces",
+        h1:"Kumar K Student become Guardian on Leetcode and  Expert on CodeForces + gets 2400+ rating on LeetCode after 8 months of DSA/OA+CP Training",
+        student:"Paras Yadav",
+        company:"parass.png",
+        img:'parass.jpg'
+    },
     user1:{
         id: 1,
          p:"Coding beginner to World Rank 50/25000 in leetcode dsa contest",

@@ -222,7 +222,7 @@ const CardComponent = () => {
       companyLogo:'https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_200_200/0/1688482473854/cisco_logo?e=1723075200&v=beta&t=5awpsoBa3jtQMIy6gu4_r02tTUWOXpmqGyKatbYGXX4'
     
     },
-    { imageSrc: 'https://media.licdn.com/dms/image/D5603AQFJKPKOF-Rl5g/profile-displayphoto-shrink_400_400/0/1711606930892?e=1720656000&v=beta&t=ykl73jSOGNtHmhRmAGFwkhFDvcLpiO4fxCwxXWyxMfU',
+    { imageSrc: 'shreeja.jpg',
       content: 'Kumar K  student cracked 14 LPA job offer from Microchip   in just   2-3 months preparation from basic to advanced by our personalised Mentoring + Training + Course.(special support before the interview!)',
       student:'Shreeja ',
       companyLogo:'https://media.licdn.com/dms/image/C4D0BAQG-f4qx312otQ/company-logo_200_200/0/1630524516371/turvo_inc__logo?e=1723075200&v=beta&t=moWbOIobgha95_Dy-iSlgraubCDm0VCTjmLYvsZYhiA'
