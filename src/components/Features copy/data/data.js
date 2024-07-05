@@ -68,7 +68,7 @@ export const data={
         h1:"Student gets World Rank 400/25000 in Leetcode DSA Contest",
         student:"Jagan Balasubramanian",
         company:"https://www.linkedin.com/feed/update/urn:li:activity:7190257872239280128/",
-        img:'https://media.licdn.com/dms/image/D5603AQEsXJZME0bpNw/profile-displayphoto-shrink_400_400/0/1694618221847?e=1720051200&v=beta&t=Xr16bMziMMPrGCeAYAFBNPtUUwpG0mrvTIqCVTjKpJ8'
+        img:'jagan.jpg'
 
     },
     user7:{
@@ -77,7 +77,7 @@ export const data={
         h1:"Student gets 2200+ rating on LeetCode",
         company:"https://www.linkedin.com/posts/kumark1_leetcode-problemsolving-leetcodeguardian-activity-7062291227924193281-cAnx/?utm_source=share&utm_medium=member_android",
         student:"Rohit G.",
-        img:'https://media.licdn.com/dms/image/D4D03AQECMHyD82991w/profile-displayphoto-shrink_400_400/0/1671970522249?e=1720051200&v=beta&t=FkRoEJ2_kHtAR4hLPdnXM-zWPMVymka4QUvFIghc0w4'
+        img:'rohit.jpg'
 
     },
     user8:{
@@ -86,7 +86,7 @@ export const data={
         h1:"Student gets World Rank 675/25000 in Leetcode DSA Contest",
         student:"Nayan Kumar Jha",
         company:"https://www.linkedin.com/posts/nayan-kumar-jha-1a7436215_leetcode-biweeklycontest-dsa-activity-7129155539862773762-OXSq/?utm_source=share&utm_medium=member_android",
-        img:'https://media.licdn.com/dms/image/D4D03AQGNFGmNDsto2w/profile-displayphoto-shrink_100_100/0/1710433358680?e=1720051200&v=beta&t=fcfKF7zdYSxyXot2mLQHdNZd96CvaocubpzebZw5mXc'
+        img:'nayan.jpg'
     },
     user9:{
         id: 8,
@@ -94,7 +94,7 @@ export const data={
         h1:"Student gets World Rank 102/25000 in CodeChef DSA Contest",
         student:"Aniket Agarwal",
         company:"https://www.linkedin.com/posts/aniket-agarwal-226a551b1_coding-codechef-consistency-activity-7024638385398947840-cu7g/?utm_source=share&utm_medium=member_desktop",
-        img:'https://media.licdn.com/dms/image/D5603AQF8ive-p0a7tA/profile-displayphoto-shrink_400_400/0/1714193561603?e=1720051200&v=beta&t=T5uCMr8Ki4qmwtRn1k6gkgibRJgPy8duis6MOv6CqBI'
+        img:'anike.jpg'
     },
     // user10:{
     //     id: 9,
