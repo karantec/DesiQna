@@ -55,6 +55,15 @@ export const data={
     },
     user5:{
         id: 4,
+        p:"Coding beginner to World Rank 79/25000 in leetcode dsa contest",
+        h1:"Student gets World Rank 79/27K in LeetCode DSA Contest",
+        student:"Bimal Maity",
+        company:"https://www.linkedin.com/posts/kumark1_this-leetcode-weekly-contest-multiple-new-activity-7200381857169846272-HeS4/?utm_source=share&utm_medium=member_desktop",
+        img:'28.jpg'
+
+    },
+    user5:{
+        id: 5,
         p:"Coding beginner to World Rank 225/25000 in leetcode dsa contest",
         h1:"Student gets World Rank 225/27K in LeetCode DSA Contest",
         student:"Santanu Singha",
@@ -63,7 +72,7 @@ export const data={
 
     },
     user6:{
-        id: 5,
+        id: 6,
         p:"Tier-3 College to World Rank World Rank 400 in Leetcode contest",
         h1:"Student gets World Rank 400/25000 in Leetcode DSA Contest",
         student:"Jagan Balasubramanian",
@@ -72,7 +81,7 @@ export const data={
 
     },
     user7:{
-        id: 6,
+        id: 7,
         p:"Tier-3 College to 2200+ rating on LeetCode",
         h1:"Student gets 2200+ rating on LeetCode",
         company:"https://www.linkedin.com/posts/kumark1_leetcode-problemsolving-leetcodeguardian-activity-7062291227924193281-cAnx/?utm_source=share&utm_medium=member_android",
@@ -81,7 +90,7 @@ export const data={
 
     },
     user8:{
-        id: 7,
+        id: 8,
         p:"Tier-3 College to World Rank World Rank 675 in Leetcode contest",
         h1:"Student gets World Rank 675/25000 in Leetcode DSA Contest",
         student:"Nayan Kumar Jha",
@@ -89,12 +98,20 @@ export const data={
         img:'nayan.jpg'
     },
     user9:{
-        id: 8,
+        id: 9,
         p:"Tier-3 College to World Rank World Rank 102 CodeChef and AIR 81",
         h1:"Student gets World Rank 102/25000 in CodeChef DSA Contest",
         student:"Aniket Agarwal",
         company:"https://www.linkedin.com/posts/aniket-agarwal-226a551b1_coding-codechef-consistency-activity-7024638385398947840-cu7g/?utm_source=share&utm_medium=member_desktop",
         img:'anike.jpg'
+    },
+    user10:{
+        id: 10,
+        p:"Coding Beginner to World Rank  365 in Leetcode Weekly contest",
+        h1:"Student gets World Rank 365/25000 in Leetcode Contest",
+        student:"SaiSri Angajala",
+        company:"https://www.linkedin.com/posts/saisri-angajala_leetcode-leetcodechallenge-problemsolving-activity-7142009512005091329-B2Rj/?utm_source=share&utm_medium=member_android",
+        img:'srisagesh.jpg'
     },
     // user10:{
     //     id: 9,

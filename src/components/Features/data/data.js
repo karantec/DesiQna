@@ -22,6 +22,15 @@ export const data={
     },
     user2:{
         id: 2,
+        p:" Kumar K student cracks SDE-3 Offer from Walmart Global Tech India!",
+        h1:"After undergoing live training for DSA + OA + System Design.",
+        student:"Sagar Bansal",
+        company:"Walmart",
+        img:"sagar.jpg"
+
+    },
+    user3:{
+        id: 2,
         p:"5LPA Service based to 30LPA SDE Offer from Flipkart Product Based Company",
         h1:"Student who was a DSA beginner and was working in service based company cracks 30 LPA Off Campus SDE Offer from Flipkart after 8 months of FAANG level DSA(OA + Interview) Training with us!",
         student:"Akhil Sharma",
@@ -29,8 +38,8 @@ export const data={
         img:'16.jpg'
 
     },
-    user3:{
-        id: 3,
+    user4:{
+        id: 4,
         p:"Tier-3 College to 18+ LPA",
         h1:" Student  cracked 18 lpa SDE Offer Off-campus from product based company Experian ",
         student:"Sandeep Nuka.",
@@ -38,8 +47,8 @@ export const data={
         img:'17.jpg'
 
     },
-    user4:{
-        id: 4,
+    user5:{
+        id: 5,
         p:"Tier-3 College to Microsoft",
         h1:" Student cracks Microsoft Off Campus offer  after 8 month FAANG level OA + Interview + CP training",
         company:"Microsoft",
@@ -47,16 +56,16 @@ export const data={
         img:'18.jpg'
 
     },
-    user5:{
-        id: 5,
+    user6:{
+        id: 6,
         p:"Tier-3 College to 28 LPA SDE Offer OFF Campus",
         h1:" Student fully beginner at DSA; cracks ZScaler 28 LPA Offer after 5 month FAANG level DSA + OA + Mock Interview Training + 800 hour course! ",
         student:"Anurag Tiwar",
         company:"Zscaler",
         img:'19.jpg'
     },
-    user6:{
-        id: 6,
+    user7:{
+        id: 7,
         p:"SDE Offer OFF Campus Microsoft",
         h1:" Cracks Microsoft SDE Offer Off Campus  after training with us for 8 months! ",
         student:"Vinita Katlamudi",
@@ -72,7 +81,7 @@ export const data={
     //     company:" Hexaview Technologies",
     //     img:'https://media.licdn.com/dms/image/D4D03AQHOApMWWJHhMw/profile-displayphoto-shrink_400_400/0/1673364727709?e=1718841600&v=beta&t=aAYB1agZt6WqbCpc2Agm_PVYm-3jbHoLQsNiTglh9V8'
     // },
-    user9:{
+    user8:{
         id: 8,
         p:"2023 Grad with Gap to Off campus SDE offer at Societe Generale",
         h1:"Student with 2023 year of graduation cracks off campus SDE offer at Societe Generale; Top PBC despite having a gap of 8+ months. ",
@@ -81,7 +90,7 @@ export const data={
         img:'21.jpg'
 
     },
-    user10:{
+    user9:{
         id: 9,
         p:"Service Based to off Campus SDE offer at Ford Motor Company",
         h1:"Student who got laid cracks off Campus SDE offer from Ford after 6 months training. ",
@@ -89,7 +98,7 @@ export const data={
         company:"Ford Motor Company",
         img:'22.jpg',
     },
-    user11:{
+    user10:{
         id: 10,
         p:"Tier-3 College to 25LPA SDE offer off Campus  from  Cisco",
         h1:" Student fully beginner at DSA; cracks Cisco 25 LPA Offer after 5 month FAANG level DSA + OA + Mock Interview Training + 800 hour course! ",
@@ -100,7 +109,7 @@ export const data={
 
     },
    
-    user12:{
+    user11:{
         id: 11,
         p:"Tier-3 College to OFF Campus SDE Offer ",
         h1:"Student cracks Goldman Sachs OFF Campus SDE Offer  after daily live training of 8 months. ",
@@ -110,7 +119,7 @@ export const data={
     },
     
    
-    user13:{
+    user12:{
         id: 12,
         p:"Tier-3 College to Off-Campus SDE Offer from Swiggy",
         h1:"Student from tier-3 college; cracks SDE Offer from Swiggy by training super hard with us for DSA(OA + Interview) + LLD + HLD! ",

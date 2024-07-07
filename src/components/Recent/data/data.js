@@ -29,6 +29,15 @@ export const data={
     },
     user3:{
         id:3,
+        p:"Tier-3 College  to SDE offer from PhonePe",
+        h1:"Mentoring Student cracks off-campus SDE offer from PhonePe after 8 months of advanced DSA(OA+CP)training",
+        company: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTovIQy7Sqh32fhLLF9N9_uRE4ZgnwQ4FMu2w&s",
+        student:"MD ISTAKHAR ANSARIMD",
+        img:'ist.jpg'
+        
+    },
+    user4:{
+        id:4,
         p:"Tier-3 College to Google and Atlassian Offcampus",
         h1:"Mentoring Student cracks off-campus offers from Google and Atlassian after 8 months of advanced DSA(OA + CP) training",
         company: "https://iconape.com/wp-content/files/ur/370111/svg/google-logo-icon-png-svg.png",
@@ -36,8 +45,8 @@ export const data={
         img:'anusha.jpg'
         
     },
-    user4:{
-        id: 4,
+    user5:{
+        id: 5,
         p:"Tier-3 College to SDE Offer from Zomato(Blinkit)",   
         h1:"Kumar K Student cracks SDE offer from Zomato(Blinkit) after 8 months of advanced DSA(OA + CP) training despite having  failures in past",
         company: "zomato.jpg",
@@ -45,8 +54,8 @@ export const data={
         img:'31.jpg'
         
     },
-    user5:{
-        id: 5,
+    user6:{
+        id: 6,
         p:"Tier-3 College to SDE Offer from Zomato(Blinkit)",   
         h1:"Kumar K Student cracks SDE offer from Zomato(Blinkit) after 8 months of advanced DSA(OA + CP) training despite having  failures in past",
         company: "zomato.jpg",
