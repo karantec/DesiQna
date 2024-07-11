@@ -28,7 +28,7 @@ const CardComponent = () => {
     },
     { 
      
-      imageSrc: 'https://media.licdn.com/dms/image/D5603AQHhZsBfAG3L_Q/profile-displayphoto-shrink_400_400/0/1678960662999?e=1720656000&v=beta&t=nELaxynAR5r9hNKHgw4FiubmuDRTOqA-oA7_dAhdCQ0',
+      imageSrc: '/Achiever/Ritik.jpeg',
      subtitle: 'Service Based to Product Based',
       content: 'Kumar K Student cracks Microsoft SDE Intern after 8 months of FAANG level DSA(OA + Interview) Training with us! ',
       student:'Ritik',
@@ -58,7 +58,7 @@ const CardComponent = () => {
     
     },
 
-    { imageSrc: 'https://media.licdn.com/dms/image/D4D03AQFlJfYNxBoCtg/profile-displayphoto-shrink_400_400/0/1682922226558?e=1720656000&v=beta&t=0APwFzTVfQDiZB2gAAXjtOmnbhHQPdg-oHe4Bs_ZbDw',
+    { imageSrc: '/Achiever/Rashi Bhave.jpeg',
     subtitle: 'SDE Offer OFF Campus Microsoft', 
      content: 'Kumar K  Student Rashi Bhave - Cracked 48LPA Microsoft Off Campus Offer  as a fresher in recession. This was possible because we personally guided her before each interview round. Trained her hard for FAANG level OA + Interview.😍😍😇😇      ',
      student:'Rashi Bhave',
