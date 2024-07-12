@@ -486,7 +486,7 @@ const CardComponent = () => {
     
     },
     { 
-    imageSrc: '/Achiever/Ritik Raj.jpeg',
+    imageSrc: '/Achiever/Neer.jpg',
      subtitle: 'Service Based to off Campus SDE offer at Ford Motor Company',
       content: 'Kumar K Student cracks 31 LPA Blackrock offer after training hard for 8 months and never missing a single session!.',
       student:'Niraj Kumar.',
@@ -572,7 +572,7 @@ const CardComponent = () => {
       companyLogo:'https://media.licdn.com/dms/image/D4E0BAQGX1UlSsTe8uA/company-logo_200_200/0/1666879844897/rocket_software_logo?e=1723075200&v=beta&t=9zzRDVRpBF9KeNar0pYK_ylbxbManv-zKDKHIL14L2M'
     
     },
-{ imageSrc: 'https://media.licdn.com/dms/image/D4D03AQEj8Mnq_7ufKw/profile-displayphoto-shrink_400_400/0/1695354710976?e=1720656000&v=beta&t=w4ArsB_h-X8EevR_LqUJX40pMJqAmOgeNimybyEKxmg',
+{ imageSrc: '/Achiever/Astha.jpg',
      subtitle: 'Tier-3 to OffCampus remote from Germany', 
       content: ' Kumar K  student cracked 18 LPA SDE offer  in just 2-3 months of preparation.',
       student:'Aastha Singh',
@@ -621,7 +621,7 @@ const CardComponent = () => {
     },
    
     { 
-    imageSrc: 'https://media.licdn.com/dms/image/D5603AQHSxg2wbA3jyQ/profile-displayphoto-shrink_400_400/0/1703266393588?e=1720656000&v=beta&t=KNpWTX2pkIY3Q3EQidtTBWL4TPkyneONDv4YVya9V1E',
+    imageSrc: '/Achiever/kushal.jpg',
      subtitle: 'Service Based to off Campus SDE offer at Ford Motor Company',
       content: 'Kumar K student cracked an 18 LPA job offer at top tech  Product Based Company Hyland and switch from service based Company Cognizant ',
       student:'Kushal Banik ',
@@ -658,7 +658,7 @@ const CardComponent = () => {
     
     },
     
-    { imageSrc: '/Achiever/Mrinal.jpeg',
+    { imageSrc: '/Achiever/Mrinal.jpg',
      subtitle: 'Tier-3 to OffCampus remote from Germany', 
       content: ' Kumar K Student cracks 13 LPA offer off campus From Manhettan Associates',
       student:'Mrinal Mohan.',
@@ -667,7 +667,7 @@ const CardComponent = () => {
     },
     
     { 
-      imageSrc: 'https://media.licdn.com/dms/image/D5603AQGQVadxDpMqeg/profile-displayphoto-shrink_400_400/0/1707728107015?e=1720656000&v=beta&t=BQpozayTqXh4XHiBHZPs8P7hYTlP7efvbvZxkfkKM6A',
+      imageSrc: '/Achiever/Mrun.jpg',
       content: ' Kumar K Student laid off in recession cracks 12LPA offer in Akami Tech. ',
       student:'Mrunmai Dahare.',
       companyLogo:'https://media.licdn.com/dms/image/C4D0BAQH0GWKi72Rndw/company-logo_200_200/0/1630551559761/akamai_technologies_logo?e=1723075200&v=beta&t=cyGvZPDmWdyDxMpHVWnno6ce0F1RwECKkCcOtauwmFg'
