@@ -360,7 +360,7 @@ const CardComponent = () => {
     
     
     },
-    { imageSrc: 'https://media.licdn.com/dms/image/D5603AQEZNo223WMZsg/profile-displayphoto-shrink_400_400/0/1709796930528?e=1720656000&v=beta&t=j8edMGA97Oi7_9MZkuPbfW3DS2TRYkplwd10mv5svb8',
+    { imageSrc: '/Achiever/ARUN.jpg',
      subtitle: 'SUBTITLE 1',
       content: 'Kumar K Student with 0 college placements cracks offcampus 10LPA offer from Zoho ',
       student:'Arunraj Vadivel',
@@ -505,7 +505,8 @@ const CardComponent = () => {
     
     
     },
-    { imageSrc: 'https://media.licdn.com/dms/image/D5603AQGh_Vybbdzmdg/profile-displayphoto-shrink_400_400/0/1700021314611?e=1720656000&v=beta&t=gRHpL0fCWetTVlivUwWUKCGbsKcL4nn40P7M2Umy-Is',
+    { 
+      imageSrc: '/Achiever/Ash.jpeg',
      subtitle: 'Tier-3 College to Off-Campus SDE Offer from Swiggy', 
       content: ' Kumar K Student Despite being a DSA beginner and 2 years experience at service based company Cognizant ;  cracks senior Engineer role off campus at OpenText + Fed-Ex.      ',
       student:'Ashmita  Senapati',
