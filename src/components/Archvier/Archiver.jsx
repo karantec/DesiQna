@@ -38,7 +38,7 @@ const CardComponent = () => {
     
     },
     { 
-      imageSrc: 'https://media.licdn.com/dms/image/D5603AQGYk0DXoTezRg/profile-displayphoto-shrink_400_400/0/1692897677817?e=1721260800&v=beta&t=T5Q8rW9j1Ims5NXVqghynU6zPkEcI3Nc1E_5l2tpbyo',
+      imageSrc: '/Achiever/anirudha.jpg',
       content: ' Kumar K Student cracked SDE-2 offer Offcampus at Visa after DSA + System Design Training + 1 -1 Mentoring from Kumar K',
       student:'Anirudha',
       
@@ -68,7 +68,7 @@ const CardComponent = () => {
    
    },
     { 
-      imageSrc: 'https://media.licdn.com/dms/image/D5603AQEcqK_KSatWMA/profile-displayphoto-shrink_400_400/0/1699625818095?e=1721260800&v=beta&t=Mhzx5yq4uUC_Q_RS3bp5Sw_1HcCzPgfLbVqTL5AM-xA',
+      imageSrc: '/Achiever/akhil.jpg',
       content: ' Kumar K Student cracks  SDE-2 offer  at BNY Mellon after working for 1.5 years in a service based company',
       student:'AKHIL B B ',
       companyLogo:'https://media.licdn.com/dms/image/D4E0BAQHFIQZwzMLdXA/company-logo_200_200/0/1688216120801/bny_mellon_logo?e=1723680000&v=beta&t=lE0V8qhfyRvNAoUU93rlhplgvezBs-Hf4bMfBmpwYCY'
@@ -104,7 +104,7 @@ const CardComponent = () => {
   
   },
   { 
-    imageSrc: 'https://media.licdn.com/dms/image/D4D03AQEP2u_SUeYuGw/profile-displayphoto-shrink_400_400/0/1688558564202?e=1721260800&v=beta&t=gJn9qOKKBWzVC5y3nRin5rJGWlyPc7LpszSNEy-Visk',
+    imageSrc: '/Achiever/karman.jpg',
     content: 'Kumar K student with no job offer as 2023 CS Grad(was really worried) ends up cracking 4 offcampus offers of 12+LPA with maximum being 16LPA  because of 1-1 Mentoring + Off Campus Job Referral Support',      
     student:' Karrman',
     companyLogo:'https://upload.wikimedia.org/wikipedia/commons/e/e5/ANSYS_logo.png'
@@ -170,7 +170,7 @@ const CardComponent = () => {
     
     },
     { 
-      imageSrc: 'https://media.licdn.com/dms/image/C4D03AQHsOgL-NcI3xg/profile-displayphoto-shrink_400_400/0/1661341649527?e=1721260800&v=beta&t=q6Qdy3yi7UR2UnhA-42VVqxXoUwoXI4rAqmHz7ZTdb8',
+      imageSrc: '/Achiever/sheel.jpg',
       content: ' Kumar K student  cracks 22 LPA SDE Offer from Samsung after 8 months of FAANG level DSA(OA + Interview) Training with us! ',
       student:'Sheel Aggarwal',
       companyLogo:'https://media.licdn.com/dms/image/C560BAQH3lurqecHRug/company-logo_200_200/0/1630647495008/samsungresearch_logo?e=1723680000&v=beta&t=RCw_zJj7tzJ0Q2yLg-h3CPf8rcP7PZn0RY0e8meWf-U'
@@ -202,7 +202,7 @@ const CardComponent = () => {
       companyLogo:'https://media.licdn.com/dms/image/D560BAQFVQnYFvzs9jw/company-logo_200_200/0/1688482473854/cisco_logo?e=1723075200&v=beta&t=5awpsoBa3jtQMIy6gu4_r02tTUWOXpmqGyKatbYGXX4'
     },
     { 
-      imageSrc: 'https://media.licdn.com/dms/image/D5603AQEQvPI8sQkiAg/profile-displayphoto-shrink_400_400/0/1708849374932?e=1721260800&v=beta&t=KjPRwINzJr4LP1bva3wDuzNh2rpw06P7DLZZG2o2uYQ',
+      imageSrc: '/Achiever/Suraj.jpg',
       content: ' Kumar K Student cracks Intel 23LPA offer  after 8 months of training for FAANG ',
       student:'Suraj Singh.',
       companyLogo:'https://media.licdn.com/dms/image/C560BAQGpvWtEtj9oTQ/company-logo_200_200/0/1630663244735/intel_corporation_logo?e=1723680000&v=beta&t=ElxaULLp_jqA-e_8dBiYyBmwK7V_2ijlQIwARF9OC8E'
@@ -466,7 +466,7 @@ const CardComponent = () => {
     
     
     },
-    { imageSrc: 'https://media.licdn.com/dms/image/D5603AQHDFRPTC_FSww/profile-displayphoto-shrink_400_400/0/1704130849503?e=1721260800&v=beta&t=gMe9EczDl0FwzcMMp0f9oQSX7VOsSbtsqUwAy-SI7Es',
+    { imageSrc: '/Achiever/umang.jpg',
      subtitle: 'SDE Offer OFF Campus Microsoft', 
       content: ' Kumar K Student with 0 job offer as 2023 Grad cracks off campus Salesforce SDE Offer 28 LPA',
       student:'Umang Sharma.',
@@ -549,7 +549,7 @@ const CardComponent = () => {
     
     
     { 
-      imageSrc: 'https://media.licdn.com/dms/image/D4D03AQEuW4O0oP9Y8w/profile-displayphoto-shrink_400_400/0/1692704891780?e=1721260800&v=beta&t=SyNOcWVLNsprrOq-psj7XX5AW2lVAQTHIwYudtmr__A',
+      imageSrc: 'Achiever/Raghav.jpg',
      subtitle: 'Tier -3 to Cisco OFF campus',
       content: 'Kumar K Student cracks 18 LPA Full Time SDE offer at Juniper Networks. after 8 month Faang level DSA + OA Training',
       student:'Raghav Singhal',
@@ -674,7 +674,7 @@ const CardComponent = () => {
     
     },
     { 
-      imageSrc: 'https://media.licdn.com/dms/image/D5603AQGM3hG6JfaSmg/profile-displayphoto-shrink_400_400/0/1696567597255?e=1721260800&v=beta&t=GeUxQWRXMoOgNE6ogSYAh2LKJacrJC_5KoA1vIG_OOg',
+      imageSrc: '/Achiever/karan.jpg',
       content: ' Kumar K  student  cracks SDE Intern at GoldMan Sachs ',
       student:'KARAN SARAWAGI',
       companyLogo:'https://media.licdn.com/dms/image/C4E0BAQHm5bYK6emQSg/company-logo_200_200/0/1630621204188/goldman_sachs_logo?e=1723680000&v=beta&t=dW6Xms2iwoahprq7k2jXROrBtGu0iYX6yNfU5WCFYh0'
@@ -692,7 +692,7 @@ const CardComponent = () => {
 
     
     { 
-      imageSrc: 'https://media.licdn.com/dms/image/D4D03AQHZRfgJB2V0MQ/profile-displayphoto-shrink_400_400/0/1709395257890?e=1721260800&v=beta&t=antT5AHNggP_WztPhwVOq3R2rQ3Hn8pgQARuwTHzyOs',
+      imageSrc: '/Achiever/Hemandra.jpg',
       content: ' Kumar K student Cracks Flipkart Group(ClearTrip) SDE Offer after training with us for 8 months!. ',
       student:'Hemandra Mehta',
       companyLogo:'https://media.licdn.com/dms/image/D560BAQEkB52cEDJLrA/company-logo_200_200/0/1712813460612/cleartrip_logo?e=1723680000&v=beta&t=3idILxU697d7sfXEF8cRbA0LTqgFQ80K7C2gWqx_Z8c'
