@@ -5,16 +5,35 @@ const CardComponent = () => {
   const data = [
    
    
-    { imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716281829/ukvfka7yaf5bu5zgo105.jpg',
+    {
+    
+     imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716281829/ukvfka7yaf5bu5zgo105.jpg',
     subtitle: 'SDE Offer OFF Campus Flipkart', 
      content: 'Kumar K student from tier-3 college cracks off-campus engineering offer from Flipkart after 10 months of high level DSA + OA + CP training and 1-1 Mentorship',
      student:'Sheenam Gupta',
      companyLogo:'https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/flipkart-512.png'
    
+   },
+   
+   { 
+    imageSrc: 'riyamicrosoft.jpg',
+    subtitle: 'SDE Offer Off Campus from Microsoft!', 
+     content: 'Kumar K student from tier-3 college cracks off-campus engineering offer from Microsoft after 8 months of high level DSA + OA + CP training',
+     student:'Riya Das',
+     companyLogo:'https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_200_200/0/1630652622688/microsoft_logo?e=1730332800&v=beta&t=b2tqFbKSHIxsnTyb9vx-_iby8KYuTvcD9lHWUZIL2ug'
+   
    
    
    },
-  
+   { imageSrc: 'sunpreet.jpg',
+    subtitle: 'SDE Offer Off Campus from Xperi Inc!', 
+     content: 'Kumar K student from tier-3 college cracks off-campus SDE Intern offer from Xperi Inc after 8 months of high level DSA + OA + CP training',
+     student:'Sunpreet Sabharwal ',
+     companyLogo:'https://media.licdn.com/dms/image/D560BAQGaeweWTOeAvg/company-logo_200_200/0/1689185917515/xperi_inc_logo?e=1730332800&v=beta&t=MSRv2MYC9or5omVIVfQaEIMY4uf1qiBVvBlCzk4BA6c'
+   
+
+   
+   },
     {
       
       imageSrc: 'pranav.jpg',
@@ -22,6 +41,27 @@ const CardComponent = () => {
       content: 'Kumar K Student  cracks off campus SDE Intern + Fulltime offer from Linkedin(40 LPA CTC) after 8 months of FAANG level DSA(OA + Interview) Training with us!',
       student:'Pranav Kulkarni',
       companyLogo:'https://cdn-icons-png.flaticon.com/256/174/174857.png'
+    
+    
+    
+    },
+    {
+      
+      imageSrc: 'likhitKumar.jpg',
+       subtitle: 'SDE Offer  from JustPay',
+      content: 'Kumar K Student  cracks off campus SDE I offer from JustPay after 8 months of FAANG level DSA(OA + Interview) Training with us!',
+      student:'Likhith Kumar',
+      companyLogo:'https://media.licdn.com/dms/image/D560BAQGtsY1kDgXExg/company-logo_200_200/0/1720767560345/juspay_technologies_logo?e=1730332800&v=beta&t=RBnNaqHi7IZUiavZQZ87fWpG19Oh6YBI9kOFDyJZwks'
+    
+    
+    },
+    {
+      
+      imageSrc: 'kumarabhishek.jpg',
+       subtitle: 'SDE offer from Samsung R&D',
+      content: 'Kumar K Student  cracks off campus SDE Intern + Fulltime offer from Samsung R&D after 8 months of FAANG level DSA(OA + Interview) Training with us!',
+      student:'Kumar Abhishek',
+      companyLogo:'https://media.licdn.com/dms/image/C560BAQEunKpnKky8lQ/company-logo_200_200/0/1632285821476/samsung_india_software_operations_bangalore_logo?e=1730332800&v=beta&t=7IZvmGpp31AHVt8q_3bDxy1yQE73bB6iWy5OKBuqGao'
     
     
     
