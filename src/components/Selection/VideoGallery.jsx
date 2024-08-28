@@ -1,6 +1,7 @@
 
 function VideoGallerys() {
   const videos = [
+    "https://www.youtube.com/embed/j1SOLU_UVkI?si=X3nOF70nY1Y1cHBc",
     "https://www.youtube.com/embed/iCIa-hY3Ov4?si=qtYMWcqbnFQUkkqC",
     "https://www.youtube.com/embed/JPz8H6uumgQ?si=DhPnS8fHXMO7_aGQ",
     "https://www.youtube.com/embed/IZv7He5jGJ4?si=37LSNW0TdXfFTn3B",
