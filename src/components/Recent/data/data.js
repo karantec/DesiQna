@@ -99,7 +99,27 @@ user0:{
         student:"Aryan",
         img:'aryan.png'
         
-    }
+    },
+    user11:{
+        id: 11,
+        p:"Service Based to Product Based (Microsoft)",   
+        h1:"Kumar K Student cracks SDE offer from Microsoft after 8 months of advanced DSA(OA + CP) training.",
+        company: "https://th.bing.com/th/id/R.ceaf8384322af790486cff176a0a2f24?rik=%2frhfgn3pSDY96g&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f4%2fMicrosoft-Logo-PNG-Photos.png&ehk=j3MPMx6Wzw3iPqgtyfnR%2f6PQP7M6fhNDqeeEYvA9G%2f4%3d&risl=&pid=ImgRaw&r=0",
+        student:"Riddhi",
+        img:'Riddhi1.jpg'
+        
+    },
+    user12:{
+        id: 12,
+        p:"Service Based to Product Based (Kotak)",   
+        h1:"Kumar K Student cracks SDE-2 offer from Kotak  OffCampus  after 8 months of advanced DSA(OA + CP) training.",
+        student:"Chandan Yadav",
+        company: "https://bl-i.thgim.com/public/incoming/n5jitd/article65328974.ece/alternates/LANDSCAPE_1200/Kotak%20Mahindra%20Bank.png",
+        img:'Chandan.jpg'
+        
+    },
+    
+    
 
     
 }

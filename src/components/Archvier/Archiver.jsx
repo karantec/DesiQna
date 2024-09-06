@@ -74,9 +74,7 @@ const CardComponent = () => {
       content: 'Kumar K Student cracks Microsoft SDE Intern after 8 months of FAANG level DSA(OA + Interview) Training with us! ',
       student:'Ritik',
       companyLogo:'./CompanyLogo/micro.jpg'
-    
-    
-    
+  
     },
     { 
       imageSrc: '/Achiever/anirudha.jpg',
@@ -119,7 +117,9 @@ const CardComponent = () => {
       student:'Nidhi Kumari',
       companyLogo:'./CompanyLogo/amazon.jpg'
     },
-    { imageSrc: '/Achiever/Dev Sharma.jpeg',
+    { 
+    
+      imageSrc: '/Achiever/Dev Sharma.jpeg',
     subtitle: 'Service Based to Product Based',
      content: 'Kumar K Student cracks Zomato Off Campus 28 LPA offer after 8 months of FAANG level DSA(OA + Interview) Training with us! ' ,
      student:'Dev',
@@ -149,7 +149,7 @@ const CardComponent = () => {
   },
     { 
      
-      imageSrc: 'https://res.cloudinary.com/dlxds69s7/image/upload/v1714758482/1706545184786_081b3289e9.jpg',
+      imageSrc: '/Achiever/sharmista.jpg',
      subtitle: 'Service Based to Product Based',
       content: 'Kumar K Student cracks Off Campus SDE Offers from PhonePe and Precisely after 8 months of FAANG level DSA(OA + Interview) Training with us!',
       student:'Sharmistha Chakraborty',
@@ -160,7 +160,7 @@ const CardComponent = () => {
     },
     { 
      
-      imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716283234/qzszcji77ms2wxtrqa2k.jpg',
+      imageSrc: '/Achiever/Anwesha.jpg',
      subtitle: 'Service Based to Product Based',
       content: 'Kumar K student cracks NVIDIA and Qualcomm after 8 months of daily live DSA + OA + CP Training and 1-1 Mentorship',
       student:' Anwesha Kar ',
@@ -172,9 +172,9 @@ const CardComponent = () => {
 
     { 
      
-      imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716282803/nd3qaux9rkyrwwugg3hy.jpg',
+      imageSrc: '/Achiever/Salman.jpg',
      subtitle: 'Service Based to Product Based',
-      content: 'Kumar K 2023 Grad student with 10 months of gap after graduation cracks 11LPA SDE Offer Offcampus from IBM ',
+      content: 'Kumar K 2023 Grad student with 10 months of gap after graduation cracks 11LPA SDE Offer Off campus from IBM ',
       student:'Salman Uddin.',
       companyLogo:'https://mma.prnewswire.com/media/1425093/IBM_LOGO.jpg?p=facebook'
     
@@ -184,7 +184,7 @@ const CardComponent = () => {
 
     { 
      
-      imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716283488/el1uv9enjfjls6q8wdxj.jpg',
+      imageSrc: '/Achiever/Suvankar.jpg',
      subtitle: 'Service Based to Product Based',
       content: 'Kumar K 2023 Grad student with 10 months of gap after graduation cracks 11LPA SDE Offer Offcampus from Pursuit ',
       student:'Suvankar Mahato',
@@ -196,7 +196,7 @@ const CardComponent = () => {
 
     { 
      
-      imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716283623/povroydknyqtp4hlwz48.jpg',
+      imageSrc: '/Achiever/Sudipto.jpg',
      subtitle: 'Service Based to Product Based',
       content: 'Kumar K 2023 Grad student with 10 months of gap after graduation cracks 11LPA SDE Offer Offcampus from Pursuit ',
       student:'Sudipto Paul',
@@ -213,14 +213,13 @@ const CardComponent = () => {
     
     },
 
-    { imageSrc: 'https://res.cloudinary.com/dlxds69s7/image/upload/v1714758751/1621875901213_34818d34d2.jpg',
+    { imageSrc: '/Achiever/akhil1.jpg',
      subtitle: '5LPA Service based to 30LPA SDE Offer from Flipkart Product Based Company',
       content: ' Kumar K Student who was a DSA beginner and was working in service based company cracks 30 LPA Off Campus SDE Offer from Flipkart after 8 months of FAANG level DSA(OA + Interview) Training with us!',
       student:'Akhil Sharma',
       companyLogo:'https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/flipkart-512.png'
     
-    
-    
+  
     },
     
     { imageSrc: '/Achiever/Animesh Kumar.jpeg',
@@ -231,7 +230,7 @@ const CardComponent = () => {
     
     },
     { 
-     imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716280262/vvegkryrdii7xzyvngsg.jpg',
+     imageSrc: '/Achiever/Arye.jpg',
      subtitle: 'Tier-3 College to 25LPA SDE offer off Campus from Cisco', 
       content: ' Kumar K student from  tier-3 college cracks 25 LPA Cisco Job offer  after 8 months of training for FAANG       ',
       student:'Aryennh Kulkarni',
@@ -278,7 +277,7 @@ const CardComponent = () => {
     
     
     },
-    { imageSrc: 'https://res.cloudinary.com/dlxds69s7/image/upload/v1714758484/niki_1800b4b94e.jpg',
+    { imageSrc: '/Achiever/Sandeep.jpg',
        subtitle: 'Tier-3 CStudent cracked 18 lpa SDE Offer Off-campus from product based company ExperianCard Title 1',
       content: ' Kumar K Student working in service based company cracks 18 lpa; product based company ',
       student:'Sandeep Nuka',
@@ -287,7 +286,7 @@ const CardComponent = () => {
     
     
     },
-    { imageSrc: 'https://res.cloudinary.com/dlxds69s7/image/upload/v1714758482/1711283069934_fdf7315a95.jpg',
+    { imageSrc: '/Achiever/Sejal.jpg',
      subtitle: 'Tier-3 College to Microsoft', 
 	    content: ' Kumar K Student cracks Microsoft Off Campus offer after 8 month FAANG level OA + Interview + CP training',
       student:'Sejal Aggarwal',
@@ -296,9 +295,8 @@ const CardComponent = () => {
     
     
     },
-    { imageSrc: 'https://res.cloudinary.com/dlxds69s7/image/upload/v1714758477/1706086206108_c232b1643f.jpg',
+    { imageSrc: '/Achiever/Anurag.jpg',
      subtitle: 'Tier-3 College to 28 LPA SDE Offer OFF Campus',
-
       content: ' Kumar K Student fully beginner at DSA; cracks ZScaler 28 LPA Offer after 5 month FAANG level DSA + OA + Mock Interview Training + 800 hour course!Anurag Tiwari',
       student:'Anurag Tiwari',
       companyLogo:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxOhWEZ90hm__JMCXOeMPVQJdxOdwd4P46KkAKPwVIRQ&s'
@@ -316,7 +314,8 @@ const CardComponent = () => {
     
     },
    
-    { imageSrc: 'https://res.cloudinary.com/dlxds69s7/image/upload/v1714758477/1671459711386_415b4b690d.jpg',
+    { 
+      imageSrc: '/Achiever/Abhishek.jpg',
      subtitle: '2023 Grad with Gap to Off campus SDE offer at Societe Generale',
       content: ' Kumar K Student with 2023 year of graduation cracks off campus SDE offer at Societe Generale; Top PBC despite having a gap of 8+ months.',
       student:'Abhishek Mishra',
@@ -326,7 +325,7 @@ const CardComponent = () => {
     
     },
     { 
-    imageSrc: 'https://res.cloudinary.com/dlxds69s7/image/upload/v1714758482/1706681234827_b16ecbe1b1.jpg',
+    imageSrc: '/Achiever/Surya.jpg',
      subtitle: 'Service Based to off Campus SDE offer at Ford Motor Company',
       content: ' Kumar K Student switched from service based to Product based company Ford 18 LPA  SDE Offer',
       student:'Surya',
@@ -336,16 +335,16 @@ const CardComponent = () => {
     
     },
     {
- imageSrc: 'https://res.cloudinary.com/dlxds69s7/image/upload/v1714758477/1706534638737_c21ad7c0e5.jpg',
+ imageSrc: '/Achiever/Prakriti.jpg',
      subtitle: 'Tier-3 College to OFF Campus SDE Offer', 
-      content: ' Kumar K Student cracks Goldman Sachs OFF Campus SDE Offer after daily live training of 8 months.',
+      content: ' Kumar K Student cracks Goldman Sachs OFF Campus SDE Offer after daily live training ofOur Recent Selection 8 months.',
       student:'Prakriti Chatterjee',
       companyLogo:'https://1000logos.net/wp-content/uploads/2016/12/Goldman-Sachs-Logo.jpg'
     
     
     
     },
-    { imageSrc: 'https://res.cloudinary.com/dlxds69s7/image/upload/v1714759744/1615099078037_bb914d2bf7.jpg',
+    { imageSrc: '/Achiever/Sarthak.jpg',
      subtitle: 'Tier-3 College to Off-Campus SDE Offer from Swiggy', 
       content: ' Kumar K Student from tier-3 college; cracks SDE Offer from Swiggy by training super hard with us for DSA(OA + Interview) + LLD + HLD!',
       student:'Sarthak Rohtagi',
@@ -357,7 +356,7 @@ const CardComponent = () => {
     { 
      
 
-     imageSrc: 'https://res.cloudinary.com/dlxds69s7/image/upload/v1714759551/1631036513588_8fd792f9f2.jpg',
+     imageSrc: '/Achiever/Raj.jpg',
      subtitle: 'Tier-3 College to 25LPA SDE offer off Campus from Cisco', 
       content: ' Kumar K Student fully beginner at DSA; cracks Cisco 25 LPA Offer after 5 month FAANG level DSA + OA + Mock Interview Training + 800 hour course!',
       student:'Raj Kumar',
@@ -376,7 +375,7 @@ const CardComponent = () => {
     
     
     },
-    { imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716280495/xxtni2zqvhosyuweajlw.jpg',
+    { imageSrc: '/Achiever/ShivamKedia.jpg',
      subtitle: 'Service Based to Product Based',
       content: ' Kumar K Student working in service based company cracks 11 lpa; product based company ',
       student:'Shivam Kedia',
@@ -414,7 +413,7 @@ const CardComponent = () => {
       
     },
     
-{ imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716280759/gtudyiwnw44objxmm49q.jpg',
+{ imageSrc: '/Achiever/Nandhu.jpg',
      subtitle: 'Tier-3 to OffCampus remote from Germany', 
       content: ' Kumar K Student cracks Offcampus remote offer from Germany despite being from tier-3 college.',
       student:'Nandhu Aripelli',
@@ -513,7 +512,7 @@ const CardComponent = () => {
     
     },
    
-    { imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716281143/y0hurndlnkloaponxvgv.jpg',
+    { imageSrc: '/Achiever/SarthakJatla.jpg',
      subtitle: '2023 Grad with Gap to Off campus SDE offer at Societe Generale',
       content: ' Kumar K Student who used to fail interviews and online test cracks 18 lpa remote international SDE offer from US based company Avaya      .',
       student:'Sarthak Jatale',
@@ -572,7 +571,7 @@ const CardComponent = () => {
     { 
      
 
-     imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716281033/f9ealics9nfe9dlz2shp.jpg',
+     imageSrc: 'Achiever/Ayushi.jpg',
      subtitle: 'Tier-3 College to 25LPA SDE offer off Campus from Cisco', 
       content: ' Kumar K 2024 Grad student cracks 12 LPA SDE Role in top tech startup',
       student:'Ayushi Sood',
@@ -638,7 +637,7 @@ const CardComponent = () => {
     
     },
    
-    { imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716281337/ypgudwyqla0bd7c3foaf.jpg',
+    { imageSrc: '/Achiever/Diwakar.jpg',
      subtitle: 'Tier-3 College to Microsoft', 
 	    content: 'Kumar K Student working at service based company cracks 22 LPA off campus job offer at top tech startup ',
       student:'Diwakar Singh',
@@ -679,7 +678,7 @@ const CardComponent = () => {
     },
     
     
-    { imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716281471/wesxdpe1qwvb6ecc3i3c.jpg',
+    { imageSrc: '/Achiever/Jyoti.jpg',
      subtitle: 'Tier -3 to Cisco OFF campus',
       content: 'On August 21 ; student cracked (19 LPA) Deutsche Bank job offer after training super hard for DSA + OA + CS Fundamentals!',
       student:'Jyoti',
@@ -720,7 +719,7 @@ const CardComponent = () => {
 
     
     { 
-      imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716281402/jnq5jfniarzuukqvfxsq.jpg',
+      imageSrc: '/Achiever/ankit.jpg',
       content: ' Kumar K Student working at service based company TCS 3LPA cracks 14LPA  in CDOT  ',
       student:'Ankit Sharma',
      companyLogo:'https://yt3.ggpht.com/a/AGF-l79yTuFVtNJSJrc1JfbYzZQwq10ttZj8Vr5SNA=s900-mo-c-c0xffffffff-rj-k-no'
@@ -738,7 +737,7 @@ const CardComponent = () => {
     
 
     { 
-      imageSrc: 'https://res.cloudinary.com/dfqrdloq7/image/upload/v1716282182/r2rlbm24pqagbuz6euzd.jpg',
+      imageSrc: '/Achiever/Hrithik.png',
       content: ' Kumar K student Cracks Flipkart SDE Offer after training with us for 8 months!. ',
       student:'Hritik Bhardwaj',
      companyLogo:'https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/flipkart-512.png'
@@ -757,6 +756,14 @@ const CardComponent = () => {
       student:'Akshat Srivastava',
      companyLogo:'https://th.bing.com/th/id/OIP.rn1m9TBOPyYY9RuNxM8W-QAAAA?rs=1&pid=ImgDetMains'
     },
+    { 
+      imageSrc: 'Manas.jpg',
+      content: ' Kumar K Student cracks  24 LP A SDE offer from Japan Product Based Company  OffCampus  after 8 months of advanced DSA(OA + CP) training. ',
+      student:'Manas Goyal',
+      companyLogo: "https://media.licdn.com/dms/image/v2/C4D0BAQE2Hk3-e0WXmA/company-logo_200_200/company-logo_200_200/0/1631326323947?e=2147483647&v=beta&t=aXUJlpONCZPn1jfSICttOFMx9F92rrUHIelyrLzCG_0",
+
+    },
+    
     
     
 
